@@ -1,0 +1,7592 @@
+fileFormatVersion: 2
+guid: 9a1caf836169aaf40802003296dba763
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1352202568349303734
+    second: Pac Man Sprites_0
+  - first:
+      213: -3552592690380771727
+    second: Pac Man Sprites_1
+  - first:
+      213: 6778199387269439432
+    second: Pac Man Sprites_2
+  - first:
+      213: 1892035018772296022
+    second: Pac Man Sprites_3
+  - first:
+      213: 5521014272675444541
+    second: Pac Man Sprites_4
+  - first:
+      213: -6979395778601985884
+    second: Pac Man Sprites_5
+  - first:
+      213: 497098125929398431
+    second: Pac Man Sprites_6
+  - first:
+      213: -2380989358622400562
+    second: Pac Man Sprites_7
+  - first:
+      213: 7233897365884452890
+    second: Pac Man Sprites_8
+  - first:
+      213: 4800435970025925309
+    second: Pac Man Sprites_9
+  - first:
+      213: 5950498014750105900
+    second: Pac Man Sprites_10
+  - first:
+      213: -6465087049399000818
+    second: Pac Man Sprites_11
+  - first:
+      213: 234101345060464875
+    second: Pac Man Sprites_12
+  - first:
+      213: 958406149279650896
+    second: Pac Man Sprites_13
+  - first:
+      213: -4068725115605866508
+    second: Pac Man Sprites_14
+  - first:
+      213: 684110997707285424
+    second: Pac Man Sprites_15
+  - first:
+      213: 8089308308300200828
+    second: Pac Man Sprites_16
+  - first:
+      213: 2204283532838998223
+    second: Pac Man Sprites_17
+  - first:
+      213: -4545386981746374755
+    second: Pac Man Sprites_18
+  - first:
+      213: 5417527114062631968
+    second: Pac Man Sprites_19
+  - first:
+      213: -4167829511955745599
+    second: Pac Man Sprites_20
+  - first:
+      213: -2375162120157053147
+    second: Pac Man Sprites_21
+  - first:
+      213: -3532503937210542464
+    second: Pac Man Sprites_22
+  - first:
+      213: 8777624719721035357
+    second: Pac Man Sprites_23
+  - first:
+      213: 1002960523272813750
+    second: Pac Man Sprites_24
+  - first:
+      213: -1948725370619879114
+    second: Pac Man Sprites_25
+  - first:
+      213: -8992316132431281510
+    second: Pac Man Sprites_26
+  - first:
+      213: -3806978985016708530
+    second: Maze 4
+  - first:
+      213: -6582669099063206128
+    second: Pac Man Sprites_28
+  - first:
+      213: -3276233319811576571
+    second: Pac Man Sprites_29
+  - first:
+      213: -3757269542247075776
+    second: Pac Man Sprites_30
+  - first:
+      213: 5959263163790370984
+    second: Pac Man Sprites_31
+  - first:
+      213: -7197548147415850216
+    second: Pac Man Sprites_32
+  - first:
+      213: -6977271305914530562
+    second: Pac Man Sprites_33
+  - first:
+      213: -6878713308393516632
+    second: Pac Man Sprites_34
+  - first:
+      213: 7899919380759174297
+    second: Pac Man Sprites_35
+  - first:
+      213: 7278760274949723797
+    second: Pac Man Sprites_36
+  - first:
+      213: 8636325727039002312
+    second: Pac Man Sprites_37
+  - first:
+      213: 4729606175754324659
+    second: Pac Man Sprites_38
+  - first:
+      213: -2168484437764272401
+    second: Pac Man Sprites_39
+  - first:
+      213: 4489507393836442147
+    second: Maze 1
+  - first:
+      213: 2408592442129271221
+    second: Maze 2
+  - first:
+      213: -8682145356001230823
+    second: Maze 3
+  - first:
+      213: 2687379189993076264
+    second: Pac Man Sprites_43
+  - first:
+      213: -2470823953593750865
+    second: Maze 5
+  - first:
+      213: 5689650852602860199
+    second: Pac Man Sprites_45
+  - first:
+      213: -7251421462564814605
+    second: Pac Man Sprites_46
+  - first:
+      213: -3131225959722499816
+    second: Pac Man Sprites_47
+  - first:
+      213: -4191449337306398663
+    second: Pac Man Sprites_48
+  - first:
+      213: 4342427383645541450
+    second: Pac Man Sprites_49
+  - first:
+      213: -9171134861066853130
+    second: Pac Man Sprites_50
+  - first:
+      213: -5835527453355341078
+    second: Pac Man Sprites_51
+  - first:
+      213: 5580488241299168301
+    second: Pac Man Sprites_52
+  - first:
+      213: -2742629552835665802
+    second: Pac Man Sprites_53
+  - first:
+      213: 8544151898662761104
+    second: Pac Man Sprites_54
+  - first:
+      213: 4980659777423792137
+    second: Pac Man Sprites_55
+  - first:
+      213: -5935506978648228538
+    second: Pac Man Sprites_56
+  - first:
+      213: 1001991181393791413
+    second: Pac Man Sprites_57
+  - first:
+      213: -5147302797792069564
+    second: Pac Man Sprites_58
+  - first:
+      213: -804254788618648231
+    second: Pac Man Sprites_59
+  - first:
+      213: -8168251669900166543
+    second: Pac Man Sprites_60
+  - first:
+      213: -6999717192658127905
+    second: Pac Man Sprites_61
+  - first:
+      213: -8965816805576664459
+    second: Pac Man Sprites_62
+  - first:
+      213: 3122877525760822166
+    second: Pac Man Sprites_63
+  - first:
+      213: -3517583167552479045
+    second: Pac Man Sprites_64
+  - first:
+      213: 4749331564654071917
+    second: Pac Man Sprites_65
+  - first:
+      213: -1131674176213711844
+    second: Pac Man Sprites_66
+  - first:
+      213: 5067818415406830660
+    second: Pac Man Sprites_67
+  - first:
+      213: -616434677149517993
+    second: Pac Man Sprites_68
+  - first:
+      213: -3919843451951842784
+    second: Pac Man Sprites_69
+  - first:
+      213: 7093730750281619221
+    second: Pac Man Sprites_70
+  - first:
+      213: 1533001256494393374
+    second: Pac Man Sprites_71
+  - first:
+      213: 6365558885845306056
+    second: Pac Man Sprites_72
+  - first:
+      213: 1029849564187857792
+    second: Pac Man Sprites_73
+  - first:
+      213: -7683942345482554199
+    second: Pac Man Sprites_74
+  - first:
+      213: 2710254935785411607
+    second: Pac Man Sprites_75
+  - first:
+      213: 7059037842409015404
+    second: Pac Man Sprites_76
+  - first:
+      213: 405562519241173282
+    second: Pac Man Sprites_77
+  - first:
+      213: 4726841847910127593
+    second: Pac Man Sprites_78
+  - first:
+      213: 5701485589555057856
+    second: Pac Man Sprites_79
+  - first:
+      213: 276322372046868541
+    second: Pac Man Sprites_80
+  - first:
+      213: 221179186713807348
+    second: Pac Man Sprites_81
+  - first:
+      213: -1241842117025633363
+    second: Pac Man Sprites_82
+  - first:
+      213: 6913698323873693303
+    second: Pac Man Sprites_83
+  - first:
+      213: -3117453905756962544
+    second: Pac Man Sprites_84
+  - first:
+      213: 7808815770028696209
+    second: Pac Man Sprites_85
+  - first:
+      213: -3897074714100050898
+    second: Pac Man Sprites_86
+  - first:
+      213: 657555892387049577
+    second: Pac Man Sprites_87
+  - first:
+      213: -6653573110760887662
+    second: Pac Man Sprites_88
+  - first:
+      213: 1934095115853902043
+    second: Pac Man Sprites_89
+  - first:
+      213: -7315254417451400245
+    second: Pac Man Sprites_90
+  - first:
+      213: 6704786686933475400
+    second: Pac Man Sprites_91
+  - first:
+      213: -3116501807218456668
+    second: Pac Man Sprites_92
+  - first:
+      213: -771419723372871829
+    second: Pac Man Sprites_93
+  - first:
+      213: 1548296950340285034
+    second: Pac Man Sprites_94
+  - first:
+      213: -2913196164963311449
+    second: Pac Man Sprites_95
+  - first:
+      213: -5065049907930795235
+    second: Pac Man Sprites_96
+  - first:
+      213: -4268702819994467048
+    second: Pac Man Sprites_97
+  - first:
+      213: -3426247908426010175
+    second: Pac Man Sprites_98
+  - first:
+      213: 9166629827015015379
+    second: Pac Man Sprites_99
+  - first:
+      213: -7790794499120702253
+    second: Pac Man Sprites_100
+  - first:
+      213: -1781659315140192880
+    second: Pac Man Sprites_101
+  - first:
+      213: 4730088207641400199
+    second: Pac Man Sprites_102
+  - first:
+      213: 5581157024473596238
+    second: Pac Man Sprites_103
+  - first:
+      213: -5293290200150758656
+    second: Pac Man Sprites_104
+  - first:
+      213: -2708511346391802578
+    second: Pac Man Sprites_105
+  - first:
+      213: 7581133235227902822
+    second: Pac Man Sprites_106
+  - first:
+      213: -4242484135783235254
+    second: Pac Man Sprites_107
+  - first:
+      213: -3676941859461692148
+    second: Pac Man Sprites_108
+  - first:
+      213: -855871865972606541
+    second: Pac Man Sprites_109
+  - first:
+      213: -5184779613844046089
+    second: Pac Man Sprites_110
+  - first:
+      213: -3613434352137973024
+    second: Pac Man Sprites_111
+  - first:
+      213: 1134291886288690407
+    second: Pac Man Sprites_112
+  - first:
+      213: -2464916606143364907
+    second: Pac Man Sprites_113
+  - first:
+      213: 8914964725964447083
+    second: Pac Man Sprites_114
+  - first:
+      213: 5281960237390880940
+    second: Pac Man Sprites_115
+  - first:
+      213: 5916315621956199087
+    second: Pac Man Sprites_116
+  - first:
+      213: 4198287577224242712
+    second: Pac Man Sprites_117
+  - first:
+      213: -2092514035993931695
+    second: Pac Man Sprites_118
+  - first:
+      213: -5677600610277480288
+    second: Pac Man Sprites_119
+  - first:
+      213: 7395236953681958547
+    second: Pac Man Sprites_120
+  - first:
+      213: -4175994543151035368
+    second: Pac Man Sprites_121
+  - first:
+      213: -8065256169080619982
+    second: Pac Man Sprites_122
+  - first:
+      213: 8619075768783040879
+    second: Pac Man Sprites_123
+  - first:
+      213: 5229975824023548808
+    second: Pac Man Sprites_124
+  - first:
+      213: -2350730798539900721
+    second: Pac Man Sprites_125
+  - first:
+      213: 7239455553936018557
+    second: Pac Man Sprites_126
+  - first:
+      213: -4729838409268288386
+    second: Pac Man Sprites_127
+  - first:
+      213: -6517965990820418878
+    second: Pac Man Sprites_128
+  - first:
+      213: 97430049064597518
+    second: Pac Man Sprites_129
+  - first:
+      213: -3526334525105265747
+    second: Pac Man Sprites_130
+  - first:
+      213: 3249398752670214772
+    second: Pac Man Sprites_131
+  - first:
+      213: 9042554258593863443
+    second: Pac Man Sprites_132
+  - first:
+      213: 5950649989775130121
+    second: Pac Man Sprites_133
+  - first:
+      213: 232515759830323209
+    second: Pac Man Sprites_134
+  - first:
+      213: -3954270900340945522
+    second: Pac Man Sprites_135
+  - first:
+      213: 836431950007526636
+    second: Pac Man Sprites_136
+  - first:
+      213: -8061915708659167795
+    second: Pac Man Sprites_137
+  - first:
+      213: 5152378354694227439
+    second: Pac Man Sprites_138
+  - first:
+      213: 6310265540119281840
+    second: Pac Man Sprites_139
+  - first:
+      213: -8784338612320419360
+    second: Pac Man Sprites_140
+  - first:
+      213: 1111162472292743469
+    second: Pac Man Sprites_141
+  - first:
+      213: -9128009464702697766
+    second: Pac Man Sprites_142
+  - first:
+      213: -6220872815013681504
+    second: Pac Man Sprites_143
+  - first:
+      213: -8343367517337986352
+    second: Pac Man Sprites_144
+  - first:
+      213: -753394858345975162
+    second: Pac Man Sprites_145
+  - first:
+      213: -3731929477622403917
+    second: Pac Man Sprites_146
+  - first:
+      213: 5516602220791633889
+    second: Pac Man Sprites_147
+  - first:
+      213: 7904822049352461926
+    second: Pac Man Sprites_148
+  - first:
+      213: -2720697644985882713
+    second: Pac Man Sprites_149
+  - first:
+      213: -1702879627550432880
+    second: Pac Man Sprites_150
+  - first:
+      213: 7381369938243909678
+    second: Pac Man Sprites_151
+  - first:
+      213: 6670235271968503508
+    second: Pac Man Sprites_152
+  - first:
+      213: -4445515567012729615
+    second: Pac Man Sprites_153
+  - first:
+      213: 1317246043158718398
+    second: Pac Man Sprites_154
+  - first:
+      213: 7519515800603287970
+    second: Pac Man Sprites_155
+  - first:
+      213: -4481540067522647601
+    second: Pac Man Sprites_156
+  - first:
+      213: 6805658813464659492
+    second: Pac Man Sprites_157
+  - first:
+      213: -8842970785571754926
+    second: Pac Man Sprites_158
+  - first:
+      213: -2876904044748916329
+    second: Pac Man Sprites_159
+  - first:
+      213: 4872455671986587749
+    second: Pac Man Sprites_160
+  - first:
+      213: -2164104204351164133
+    second: Pac Man Sprites_161
+  - first:
+      213: -4294106001132795904
+    second: Pac Man Sprites_162
+  - first:
+      213: -7222486227539072882
+    second: Pac Man Sprites_163
+  - first:
+      213: 1745838910501456123
+    second: Pac Man Sprites_164
+  - first:
+      213: 2402963384252293342
+    second: Pac Man Sprites_165
+  - first:
+      213: 6600896524740694029
+    second: Pac Man Sprites_166
+  - first:
+      213: -1731254832333642516
+    second: Pac Man Sprites_167
+  - first:
+      213: 210568659062933519
+    second: Pac Man Sprites_168
+  - first:
+      213: 6211728911787359578
+    second: Pac Man Sprites_169
+  - first:
+      213: 996230655071475619
+    second: Pac Man Sprites_170
+  - first:
+      213: -4415974536217825771
+    second: Pac Man Sprites_171
+  - first:
+      213: 7907269042832059770
+    second: Pac Man Sprites_172
+  - first:
+      213: -8097374572410975781
+    second: Pac Man Sprites_173
+  - first:
+      213: -5608866051941986654
+    second: Pac Man Sprites_174
+  - first:
+      213: -7328947193417865265
+    second: Pac Man Sprites_175
+  - first:
+      213: 6223448314196708336
+    second: Pac Man Sprites_176
+  - first:
+      213: 2842548486005978818
+    second: Pac Man Sprites_177
+  - first:
+      213: -8145172873935667130
+    second: Pac Man Sprites_178
+  - first:
+      213: -1552396973032817583
+    second: Pac Man Sprites_179
+  - first:
+      213: -845714930451132181
+    second: Pac Man Sprites_180
+  - first:
+      213: -3752143547892523676
+    second: Pac Man Sprites_181
+  - first:
+      213: -5982404342503539656
+    second: Pac Man Sprites_182
+  - first:
+      213: 8410460027426886708
+    second: Pac Man Sprites_183
+  - first:
+      213: 2948940761323490452
+    second: Pac Man Sprites_184
+  - first:
+      213: -9124306047860142591
+    second: Pac Man Sprites_185
+  - first:
+      213: 6033814662946069195
+    second: Pac Man Sprites_186
+  - first:
+      213: -8472460941599861396
+    second: Pac Man Sprites_187
+  - first:
+      213: 477114151340934794
+    second: Pac Man Sprites_188
+  - first:
+      213: -9028958895207284573
+    second: Pac Man Sprites_189
+  - first:
+      213: 3417493651595970418
+    second: Pac Man Sprites_190
+  - first:
+      213: -4269048247718971262
+    second: Pac Man Sprites_191
+  - first:
+      213: -8136275496853453338
+    second: Pac Man Sprites_192
+  - first:
+      213: 5407288818956764168
+    second: Pac Man Sprites_193
+  - first:
+      213: 5142400743437888602
+    second: Pac Man Sprites_194
+  - first:
+      213: -4009533775707100187
+    second: Pac Man Sprites_195
+  - first:
+      213: -3614598979510242393
+    second: Pac Man Sprites_196
+  - first:
+      213: 7827334942203126860
+    second: Pac Man Sprites_197
+  - first:
+      213: -1981411488231851282
+    second: Pac Man Sprites_198
+  - first:
+      213: -5880120625516041302
+    second: Pac Man Sprites_199
+  - first:
+      213: -4755510902338498032
+    second: Pac Man Sprites_200
+  - first:
+      213: 7728429088275444956
+    second: Pac Man Sprites_201
+  - first:
+      213: -164502971592619179
+    second: Pac Man Sprites_202
+  - first:
+      213: -856605731729833558
+    second: Pac Man Sprites_203
+  - first:
+      213: 6763562811021678841
+    second: Pac Man Sprites_204
+  - first:
+      213: 1377227036486719032
+    second: Pac Man Sprites_205
+  - first:
+      213: 1251384900224226058
+    second: Pac Man Sprites_206
+  - first:
+      213: -7394648630370114074
+    second: Pac Man Sprites_207
+  - first:
+      213: 8947051357881859799
+    second: Pac Man Sprites_208
+  - first:
+      213: -8450539732890504695
+    second: Pac Man Sprites_209
+  - first:
+      213: 4833036089427567151
+    second: Pac Man Sprites_210
+  - first:
+      213: -3584369391650590285
+    second: Pac Man Sprites_211
+  - first:
+      213: 2666991729048630204
+    second: Pac Man Sprites_212
+  - first:
+      213: 1204383832499498963
+    second: Pac Man Sprites_213
+  - first:
+      213: 1655758244128774276
+    second: Pac Man Sprites_214
+  - first:
+      213: -5286144782858340510
+    second: Pac Man Sprites_215
+  - first:
+      213: -3950195823610970842
+    second: Pac Man Sprites_216
+  - first:
+      213: -9025330923263785559
+    second: Pac Man Sprites_217
+  - first:
+      213: 3559836408835689728
+    second: Pac Man Sprites_218
+  - first:
+      213: 1819782151055175845
+    second: Pac Man Sprites_219
+  - first:
+      213: 4969413008976972881
+    second: Pac Man Sprites_220
+  - first:
+      213: 5269004328311102403
+    second: Pac Man Sprites_221
+  - first:
+      213: 6116586185318400104
+    second: Pac Man Sprites_222
+  - first:
+      213: 1944355994453551865
+    second: Pac Man Sprites_223
+  - first:
+      213: -2269119599290438821
+    second: Pac Man Sprites_224
+  - first:
+      213: 6381355236823577904
+    second: Pac Man Sprites_225
+  - first:
+      213: 302728372360755251
+    second: Pac Man Sprites_226
+  - first:
+      213: 3536611589139647358
+    second: Pac Man Sprites_227
+  - first:
+      213: -7695569424714556859
+    second: Pac Man Sprites_228
+  - first:
+      213: -541494535760218571
+    second: Pac Man Sprites_229
+  - first:
+      213: 1371029312096619224
+    second: Pac Man Sprites_230
+  - first:
+      213: -6744334982803248738
+    second: Pac Man Sprites_231
+  - first:
+      213: 976696513042548327
+    second: Pac Man Sprites_232
+  - first:
+      213: -8552990204936187804
+    second: Pac Man Sprites_233
+  - first:
+      213: 844724835497047103
+    second: Pac Man Sprites_234
+  - first:
+      213: 6899117867550865105
+    second: Pac Man Sprites_235
+  - first:
+      213: -1070407009112562153
+    second: Pac Man Sprites_236
+  - first:
+      213: -2633168130733658055
+    second: Pac Man Sprites_237
+  - first:
+      213: 853087721951777140
+    second: Pac Man Sprites_238
+  - first:
+      213: -5591847673140917080
+    second: Pac Man Sprites_239
+  - first:
+      213: -6796933349573564613
+    second: Pac Man Sprites_240
+  - first:
+      213: -1554140635847988282
+    second: Pac Man Sprites_241
+  - first:
+      213: -3169628064162742265
+    second: Pac Man Sprites_242
+  - first:
+      213: -8944772601163568227
+    second: Pac Man Sprites_243
+  - first:
+      213: 8765515561280248107
+    second: Pac Man Sprites_244
+  - first:
+      213: 500620677235581121
+    second: Pac Man Sprites_245
+  - first:
+      213: -6691649765391373027
+    second: Pac Man Sprites_246
+  - first:
+      213: 5885923454350150078
+    second: Pac Man Sprites_247
+  - first:
+      213: 3831010252423838363
+    second: Pac Man Sprites_248
+  - first:
+      213: -8404290656849365469
+    second: Pac Man Sprites_249
+  - first:
+      213: 304770986580165967
+    second: Pac Man Sprites_250
+  - first:
+      213: -5914784874257767052
+    second: Pac Man Sprites_251
+  - first:
+      213: 6223078402806772716
+    second: Pac Man Sprites_252
+  - first:
+      213: 5227819478171288636
+    second: Pac Man Sprites_253
+  - first:
+      213: -8080128542762718286
+    second: Pac Man Sprites_254
+  - first:
+      213: 2162893003685632752
+    second: Pac Man Sprites_255
+  - first:
+      213: 6383650674911916748
+    second: Pac Man Sprites_256
+  - first:
+      213: 2292345551493913310
+    second: Pac Man Sprites_257
+  - first:
+      213: -2444873582786057770
+    second: Pac Man Sprites_258
+  - first:
+      213: 8097387833769389855
+    second: Pac Man Sprites_259
+  - first:
+      213: 846576843964540731
+    second: Pac Man Sprites_260
+  - first:
+      213: -299727258749000210
+    second: Pac Man Sprites_261
+  - first:
+      213: -4592446677029943427
+    second: Pac Man Sprites_262
+  - first:
+      213: 8656831066011164049
+    second: Pac Man Sprites_263
+  - first:
+      213: 509567334548296227
+    second: Pac Man Sprites_264
+  - first:
+      213: -1597418127778298094
+    second: Pac Man Sprites_265
+  - first:
+      213: -4283218875381739371
+    second: Pac Man Sprites_266
+  - first:
+      213: 1727020842800485955
+    second: Pac Man Sprites_267
+  - first:
+      213: -7181441935065864770
+    second: Pac Man Sprites_268
+  - first:
+      213: 8992380699593947118
+    second: Pac Man Sprites_269
+  - first:
+      213: -7817996640998967277
+    second: Pac Man Sprites_270
+  - first:
+      213: -6743063508466941647
+    second: Pac Man Sprites_271
+  - first:
+      213: 3654691379594911193
+    second: Pac Man Sprites_272
+  - first:
+      213: -1760226357559596347
+    second: Pac Man Sprites_273
+  - first:
+      213: -5702524172149107858
+    second: Pac Man Sprites_274
+  - first:
+      213: -2333080426701077406
+    second: Pac Man Sprites_275
+  - first:
+      213: 6407350026398275850
+    second: Pac Man Sprites_276
+  - first:
+      213: 7058296429397409819
+    second: Pac Man Sprites_277
+  - first:
+      213: 359798717121640124
+    second: Pac Man Sprites_278
+  - first:
+      213: -8419399326002136886
+    second: Pac Man Sprites_279
+  - first:
+      213: 3146169454243840870
+    second: Pac Man Sprites_280
+  - first:
+      213: -6722950337857080373
+    second: Pac Man Sprites_281
+  - first:
+      213: 1540201120088464449
+    second: Pac Man Sprites_282
+  - first:
+      213: -2707258151123563364
+    second: Pac Man Sprites_283
+  - first:
+      213: -1051827725410766195
+    second: Pac Man Sprites_284
+  - first:
+      213: 3727989741957703322
+    second: Pac Man Sprites_285
+  - first:
+      213: 4614387874739219323
+    second: Pac Man Sprites_286
+  - first:
+      213: -1038360652745329824
+    second: Pac Man Sprites_287
+  - first:
+      213: -8539471845012482430
+    second: Pac Man Sprites_288
+  - first:
+      213: 8100732221245965635
+    second: Pac Man Sprites_289
+  - first:
+      213: 2544975118985972813
+    second: Pac Man Sprites_290
+  - first:
+      213: 2183356876795685169
+    second: Pac Man Sprites_291
+  - first:
+      213: -1039787652208380722
+    second: Pac Man Sprites_292
+  - first:
+      213: -1622341606980647136
+    second: Pac Man Sprites_293
+  - first:
+      213: -5456358322168370183
+    second: Pac Man Sprites_294
+  - first:
+      213: 514572705051511057
+    second: Pac Man Sprites_295
+  - first:
+      213: 2342260459725211844
+    second: Pac Man Sprites_296
+  - first:
+      213: 8448133965127414022
+    second: Pac Man Sprites_297
+  - first:
+      213: -8027411050771971704
+    second: Pac Man Sprites_298
+  - first:
+      213: -6552971778465734231
+    second: Pac Man Sprites_299
+  - first:
+      213: -3962320777481580529
+    second: Pac Man Sprites_300
+  - first:
+      213: 1787800600271755081
+    second: Pac Man Sprites_301
+  - first:
+      213: -4385549552943439584
+    second: Pac Man Sprites_302
+  - first:
+      213: -8425681226628129810
+    second: Pac Man Sprites_303
+  - first:
+      213: -6541789492732471852
+    second: Pac Man Sprites_304
+  - first:
+      213: 3057840340728482430
+    second: Pac Man Sprites_305
+  - first:
+      213: 2584161089358800562
+    second: Pac Man Sprites_306
+  - first:
+      213: 4993869483855136947
+    second: Pac Man Sprites_307
+  - first:
+      213: -2304279005381577643
+    second: Pac Man Sprites_308
+  - first:
+      213: 9058470654604676507
+    second: Pac Man Sprites_309
+  - first:
+      213: 8733846589935188183
+    second: Pac Man Sprites_310
+  - first:
+      213: 1169167665795483703
+    second: Pac Man Sprites_311
+  - first:
+      213: -2222719442586240714
+    second: Pac Man Sprites_312
+  - first:
+      213: 6652366894006042307
+    second: Pac Man Sprites_313
+  - first:
+      213: 2829525064894588668
+    second: Pac Man Sprites_314
+  - first:
+      213: 6335255341923717356
+    second: Pac Man Sprites_315
+  - first:
+      213: -7933584105973600856
+    second: Pac Man Sprites_316
+  - first:
+      213: -7814476393129073571
+    second: Pac Man Sprites_317
+  - first:
+      213: -2314650138847419169
+    second: Pac Man Sprites_318
+  - first:
+      213: -3846935834347026847
+    second: Pac Man Sprites_319
+  - first:
+      213: 9019462923101848938
+    second: Pac Man Sprites_320
+  - first:
+      213: 5942213634638640004
+    second: Pac Man Sprites_321
+  - first:
+      213: 3885128510770427229
+    second: Pac Man Sprites_322
+  - first:
+      213: 3209073483991207199
+    second: Pac Man Sprites_323
+  - first:
+      213: -749435471661399243
+    second: Pac Man Sprites_324
+  - first:
+      213: 1041192129963056358
+    second: Pac Man Sprites_325
+  - first:
+      213: 2704249779661718462
+    second: Pac Man Sprites_326
+  - first:
+      213: 877828652010394382
+    second: Pac Man Sprites_327
+  - first:
+      213: 6808907517825208505
+    second: Pac Man Sprites_328
+  - first:
+      213: 2008217338174956437
+    second: Pac Man Sprites_329
+  - first:
+      213: -5030661278725617589
+    second: Pac Man Sprites_330
+  - first:
+      213: -8196225094500780559
+    second: Pac Man Sprites_331
+  - first:
+      213: 484072747645672753
+    second: Pac Man Sprites_332
+  - first:
+      213: -6683425901887269524
+    second: Pac Man Sprites_333
+  - first:
+      213: 6464020362208738634
+    second: Pac Man Sprites_334
+  - first:
+      213: -7216060373155215169
+    second: Pac Man Sprites_335
+  - first:
+      213: 5188759634845752670
+    second: Pac Man Sprites_336
+  - first:
+      213: 2327735075426425345
+    second: Pac Man Sprites_337
+  - first:
+      213: -7723649998905486316
+    second: Pac Man Sprites_338
+  - first:
+      213: -8696123698966702298
+    second: Pac Man Sprites_339
+  - first:
+      213: 7037836884289528982
+    second: Pac Man Sprites_340
+  - first:
+      213: 6737193391237824549
+    second: Pac Man Sprites_341
+  - first:
+      213: 5181151971089642048
+    second: Pac Man Sprites_342
+  - first:
+      213: 4905890438860290810
+    second: Pac Man Sprites_343
+  - first:
+      213: 2734439979404817073
+    second: Pac Man Sprites_344
+  - first:
+      213: 2286268134922272617
+    second: Pac Man Sprites_345
+  - first:
+      213: -833962849903550618
+    second: Pac Man Sprites_346
+  - first:
+      213: -4759034287422634698
+    second: Pac Man Sprites_347
+  - first:
+      213: -1368397088072552165
+    second: Pac Man Sprites_348
+  - first:
+      213: 881452412396788345
+    second: Pac Man Sprites_349
+  - first:
+      213: -1832699748543229239
+    second: Pac Man Sprites_350
+  - first:
+      213: 6462812733638500586
+    second: Pac Man Sprites_351
+  - first:
+      213: -482010121563708775
+    second: Pac Man Sprites_352
+  - first:
+      213: 1744484827170770647
+    second: Pac Man Sprites_353
+  - first:
+      213: 5600947633312727043
+    second: Pac Man Sprites_354
+  - first:
+      213: -289778429990745951
+    second: Pac Man Sprites_355
+  - first:
+      213: 8401788734809661022
+    second: Pac Man Sprites_356
+  - first:
+      213: 3811799134303663286
+    second: Pac Man Sprites_357
+  - first:
+      213: 6826841876021269344
+    second: Pac Man Sprites_358
+  - first:
+      213: -1113762727137900857
+    second: Pac Man Sprites_359
+  - first:
+      213: -5735240133052484826
+    second: Pac Man Sprites_360
+  - first:
+      213: 3497077847182497159
+    second: Pac Man Sprites_361
+  - first:
+      213: 6993035344353227481
+    second: Pac Man Sprites_362
+  - first:
+      213: -2111680569811556260
+    second: Pac Man Sprites_363
+  - first:
+      213: 103417483583432735
+    second: Pac Man Sprites_364
+  - first:
+      213: -2556013786193611829
+    second: Pac Man Sprites_365
+  - first:
+      213: -4486011151588072594
+    second: Pac Man Sprites_366
+  - first:
+      213: 8593589191923571383
+    second: Pac Man Sprites_367
+  - first:
+      213: -6600188691418563143
+    second: Pac Man Sprites_368
+  - first:
+      213: 706770305172187624
+    second: Pac Man Sprites_369
+  - first:
+      213: 2303923997008664011
+    second: Pac Man Sprites_370
+  - first:
+      213: -4232297094527394563
+    second: Pac Man Sprites_371
+  - first:
+      213: 6952693329737379455
+    second: Pac Man Sprites_372
+  - first:
+      213: 2925054175807795675
+    second: Pac Man Sprites_373
+  - first:
+      213: -2157184720039290319
+    second: Pac Man Sprites_374
+  - first:
+      213: -1586045692166599347
+    second: Pac Man Sprites_375
+  - first:
+      213: -2659983040261528215
+    second: Pac Man Sprites_376
+  - first:
+      213: -4934905131198316749
+    second: Pac Man Sprites_377
+  - first:
+      213: -4501477773549385435
+    second: Pac Man Sprites_378
+  - first:
+      213: -9086264674287069774
+    second: Pac Man Sprites_379
+  - first:
+      213: -5646040477184170033
+    second: Pac Man Sprites_380
+  - first:
+      213: 5250355394973354335
+    second: Pac Man Sprites_381
+  - first:
+      213: 3549279016891999263
+    second: Pac Man Sprites_382
+  - first:
+      213: -892831827904080975
+    second: Pac Man Sprites_383
+  - first:
+      213: -4287104218867628590
+    second: Pac Man Sprites_384
+  - first:
+      213: -1751247409087532641
+    second: Pac Man Sprites_385
+  - first:
+      213: 8579599201276635587
+    second: Pac Man Sprites_386
+  - first:
+      213: 5535211212668376473
+    second: Pac Man Sprites_387
+  - first:
+      213: 4070622588696474677
+    second: Pac Man Sprites_388
+  - first:
+      213: -2172886665029443872
+    second: Pac Man Sprites_389
+  - first:
+      213: 7118717631746456798
+    second: Pac Man Sprites_390
+  - first:
+      213: 4892186808860931360
+    second: Pac Man Sprites_391
+  - first:
+      213: -2148793665312791870
+    second: Pac Man Sprites_392
+  - first:
+      213: -3112970110783599099
+    second: Pac Man Sprites_393
+  - first:
+      213: 7141068081827753457
+    second: Pac Man Sprites_394
+  - first:
+      213: 7323492631790315081
+    second: Pac Man Sprites_395
+  - first:
+      213: 2649618814538891735
+    second: Pac Man Sprites_396
+  - first:
+      213: 6729056161158791234
+    second: Pac Man Sprites_397
+  - first:
+      213: -1213541287013901801
+    second: Pac Man Sprites_398
+  - first:
+      213: 2759146239617363200
+    second: Pac Man Sprites_399
+  - first:
+      213: 1359505434801228686
+    second: Pac Man Sprites_400
+  - first:
+      213: 2654703627672415125
+    second: Pac Man Sprites_401
+  - first:
+      213: -6279563285338490121
+    second: Pac Man Sprites_402
+  - first:
+      213: 1287666355502617419
+    second: Pac Man Sprites_403
+  - first:
+      213: 3027363406373807993
+    second: Pac Man Sprites_404
+  - first:
+      213: -3315363690746714947
+    second: Pac Man Sprites_405
+  - first:
+      213: -7787085297707485654
+    second: Pac Man Sprites_406
+  - first:
+      213: -3395108911317929796
+    second: Pac Man Sprites_407
+  - first:
+      213: -5145115437255202538
+    second: Pac Man Sprites_408
+  - first:
+      213: 5425919569874545361
+    second: Pac Man Sprites_409
+  - first:
+      213: -6299037992589683250
+    second: Pac Man Sprites_410
+  - first:
+      213: -7487413737899437359
+    second: Pac Man Sprites_411
+  - first:
+      213: 3116431279022716946
+    second: Pac Man Sprites_412
+  - first:
+      213: -1258354649400039173
+    second: Pac Man Sprites_413
+  - first:
+      213: -7239869537145048662
+    second: Pac Man Sprites_414
+  - first:
+      213: -7118642750667864551
+    second: Pac Man Sprites_415
+  - first:
+      213: -5753724215681420440
+    second: Pac Man Sprites_416
+  - first:
+      213: -3357462423326858564
+    second: Pac Man Sprites_417
+  - first:
+      213: -8321084138508646050
+    second: Pac Man Sprites_418
+  - first:
+      213: 6754462923203027763
+    second: Pac Man Sprites_419
+  - first:
+      213: 1484195564940452798
+    second: Pac Man Sprites_420
+  - first:
+      213: -873276300907263958
+    second: Pac Man Sprites_421
+  - first:
+      213: 7535795485583146072
+    second: Pac Man Sprites_422
+  - first:
+      213: -1355433455659318975
+    second: Pac Man Sprites_423
+  - first:
+      213: 6779389572028305476
+    second: Pac Man Sprites_424
+  - first:
+      213: -6207880862284455611
+    second: Pac Man Sprites_425
+  - first:
+      213: -1144472622377276197
+    second: Pac Man Sprites_426
+  - first:
+      213: 321505671142879946
+    second: Pac Man Sprites_427
+  - first:
+      213: -4790089742021149092
+    second: Pac Man Sprites_428
+  - first:
+      213: 7664312283341296911
+    second: Pac Man Sprites_429
+  - first:
+      213: 1310977167623663634
+    second: Pac Man Sprites_430
+  - first:
+      213: -4862839935467240422
+    second: Pac Man Sprites_431
+  - first:
+      213: 4331334137205647955
+    second: Pac Man Sprites_0
+  - first:
+      213: 9198742739431843550
+    second: Pac Man Sprites_1
+  - first:
+      213: 4582902738329321644
+    second: Pac Man Sprites_2
+  - first:
+      213: -3310998591769185102
+    second: Pac Man Sprites_3
+  - first:
+      213: 5619072826699148832
+    second: Pac Man Sprites_4
+  - first:
+      213: -6397810578168835305
+    second: Pac Man Sprites_5
+  - first:
+      213: 1727042237351554776
+    second: Pac Man Sprites_6
+  - first:
+      213: -6798058377100882726
+    second: Pac Man Sprites_7
+  - first:
+      213: 5171771471270004559
+    second: Pac Man Sprites_8
+  - first:
+      213: 2919546419079080358
+    second: Pac Man Sprites_9
+  - first:
+      213: 2754069675350979720
+    second: Pac Man Sprites_10
+  - first:
+      213: -3109528695240900417
+    second: Pac Man Sprites_11
+  - first:
+      213: -2348270375790028913
+    second: Pac Man Sprites_12
+  - first:
+      213: -7284952490890596305
+    second: Pac Man Sprites_13
+  - first:
+      213: -5147857021191811881
+    second: Pac Man Sprites_14
+  - first:
+      213: -8759153447584554000
+    second: Pac Man Sprites_15
+  - first:
+      213: -2470837629833186402
+    second: Pac Man Sprites_16
+  - first:
+      213: 1287086754112361061
+    second: Pac Man Sprites_17
+  - first:
+      213: 5368529926422486276
+    second: Pac Man Sprites_18
+  - first:
+      213: 2252769001774970846
+    second: Pac Man Sprites_19
+  - first:
+      213: 7768306829391532009
+    second: Pac Man Sprites_20
+  - first:
+      213: 714766679334358109
+    second: Pac Man Sprites_21
+  - first:
+      213: 5508023443757801582
+    second: Pac Man Sprites_22
+  - first:
+      213: -5981746351736979530
+    second: Pac Man Sprites_23
+  - first:
+      213: -11313253822511280
+    second: Pac Man Sprites_24
+  - first:
+      213: 9142934703025284750
+    second: Pac Man Sprites_25
+  - first:
+      213: 8522074942781462762
+    second: Pac Man Sprites_26
+  - first:
+      213: -7105072302438043527
+    second: Pac Man Sprites_27
+  - first:
+      213: 4745177125752923593
+    second: Pac Man Sprites_28
+  - first:
+      213: -7422825919557374824
+    second: Pac Man Sprites_29
+  - first:
+      213: 2721000517303377410
+    second: Pac Man Sprites_30
+  - first:
+      213: -3567130901566328761
+    second: Pac Man Sprites_31
+  - first:
+      213: -340018520485457259
+    second: Pac Man Sprites_32
+  - first:
+      213: 6612582721242067453
+    second: Pac Man Sprites_33
+  - first:
+      213: -8435341366651445172
+    second: Pac Man Sprites_34
+  - first:
+      213: -2749958801001539392
+    second: Pac Man Sprites_35
+  - first:
+      213: 2740068903568024658
+    second: Pac Man Sprites_36
+  - first:
+      213: 7375000984147199533
+    second: Pac Man Sprites_37
+  - first:
+      213: 2488360256957034351
+    second: Pac Man Sprites_38
+  - first:
+      213: 3592950848186005572
+    second: Pac Man Sprites_39
+  - first:
+      213: -1983081244222947819
+    second: Pac Man Sprites_40
+  - first:
+      213: -3092150653124582395
+    second: Pac Man Sprites_41
+  - first:
+      213: 2407812480894427155
+    second: Pac Man Sprites_42
+  - first:
+      213: 3568223689334626676
+    second: Pac Man Sprites_43
+  - first:
+      213: -7947603063098170694
+    second: Pac Man Sprites_44
+  - first:
+      213: -1133540069458212446
+    second: Pac Man Sprites_45
+  - first:
+      213: -4073651405493333452
+    second: Pac Man Sprites_46
+  - first:
+      213: 9206231201775399588
+    second: Pac Man Sprites_47
+  - first:
+      213: 4402745620222164773
+    second: Pac Man Sprites_48
+  - first:
+      213: 3509037340087005848
+    second: Pac Man Sprites_49
+  - first:
+      213: -4535095364034330498
+    second: Pac Man Sprites_50
+  - first:
+      213: 5915265570103109060
+    second: Pac Man Sprites_51
+  - first:
+      213: 2495182386145212602
+    second: Pac Man Sprites_52
+  - first:
+      213: 7003011069264117050
+    second: Pac Man Sprites_53
+  - first:
+      213: -5528718942013862848
+    second: Pac Man Sprites_54
+  - first:
+      213: 1277992951750763072
+    second: Pac Man Sprites_55
+  - first:
+      213: 5248119465585879978
+    second: Pac Man Sprites_56
+  - first:
+      213: 5520466052056293986
+    second: Pac Man Sprites_57
+  - first:
+      213: 4406821221521169194
+    second: Pac Man Sprites_58
+  - first:
+      213: 9083168432903186813
+    second: Pac Man Sprites_59
+  - first:
+      213: 7623634623503536267
+    second: Pac Man Sprites_60
+  - first:
+      213: -3975836779765648044
+    second: Pac Man Sprites_61
+  - first:
+      213: 6427996160092729576
+    second: Pac Man Sprites_62
+  - first:
+      213: -8507527566896580206
+    second: Pac Man Sprites_63
+  - first:
+      213: -5349080483021543121
+    second: Pac Man Sprites_64
+  - first:
+      213: -847918617749883425
+    second: Pac Man Sprites_65
+  - first:
+      213: -7721901581986132651
+    second: Pac Man Sprites_66
+  - first:
+      213: 7766886263107843124
+    second: Pac Man Sprites_67
+  - first:
+      213: 6579745607115193197
+    second: Pac Man Sprites_68
+  - first:
+      213: -6351746188016288516
+    second: Pac Man Sprites_69
+  - first:
+      213: -2797527455281751426
+    second: Pac Man Sprites_70
+  - first:
+      213: 603624645445631746
+    second: Pac Man Sprites_71
+  - first:
+      213: 9147047654839841299
+    second: Pac Man Sprites_72
+  - first:
+      213: 353043835094804125
+    second: Pac Man Sprites_73
+  - first:
+      213: -7752282048989279085
+    second: Pac Man Sprites_74
+  - first:
+      213: 7399252684076316321
+    second: Pac Man Sprites_75
+  - first:
+      213: 554335556836866972
+    second: Pac Man Sprites_76
+  - first:
+      213: -9175522940779006963
+    second: Pac Man Sprites_77
+  - first:
+      213: 6657477053965648175
+    second: Pac Man Sprites_78
+  - first:
+      213: -5439612811177887688
+    second: Pac Man Sprites_79
+  - first:
+      213: 3103904126381638848
+    second: Pac Man Sprites_80
+  - first:
+      213: 2911426377816473305
+    second: Pac Man Sprites_81
+  - first:
+      213: -4755298632947929862
+    second: Pac Man Sprites_82
+  - first:
+      213: -7084990913526874570
+    second: Pac Man Sprites_83
+  - first:
+      213: 3904255645805187721
+    second: Pac Man Sprites_84
+  - first:
+      213: -8203298502114110849
+    second: Pac Man Sprites_85
+  - first:
+      213: 8860150810817276198
+    second: Pac Man Sprites_86
+  - first:
+      213: 9089125801959908695
+    second: Pac Man Sprites_87
+  - first:
+      213: 1559961525824742949
+    second: Pac Man Sprites_88
+  - first:
+      213: 7896555429796670378
+    second: Pac Man Sprites_89
+  - first:
+      213: 1506992344516678932
+    second: Pac Man Sprites_90
+  - first:
+      213: -2615864298090570418
+    second: Pac Man Sprites_91
+  - first:
+      213: -7325633858303109062
+    second: Pac Man Sprites_92
+  - first:
+      213: -407469216118597799
+    second: Pac Man Sprites_93
+  - first:
+      213: -1914662545285142332
+    second: Pac Man Sprites_94
+  - first:
+      213: 7825231271901133766
+    second: Pac Man Sprites_95
+  - first:
+      213: -3762221086919447470
+    second: Pac Man Sprites_96
+  - first:
+      213: -4728632777795476359
+    second: Pac Man Sprites_97
+  - first:
+      213: -6686182204081848751
+    second: Pac Man Sprites_98
+  - first:
+      213: 1509991451460127742
+    second: Pac Man Sprites_99
+  - first:
+      213: 2771008036298501371
+    second: Pac Man Sprites_100
+  - first:
+      213: 4802765668611065947
+    second: Pac Man Sprites_101
+  - first:
+      213: 1973864351780701857
+    second: Pac Man Sprites_102
+  - first:
+      213: -5052103752979752412
+    second: Pac Man Sprites_103
+  - first:
+      213: 3668863745052610493
+    second: Pac Man Sprites_104
+  - first:
+      213: -4218699984457134134
+    second: Pac Man Sprites_105
+  - first:
+      213: -2518688838199875021
+    second: Pac Man Sprites_106
+  - first:
+      213: -4083311230815838609
+    second: Pac Man Sprites_107
+  - first:
+      213: -4603571987272341246
+    second: Pac Man Sprites_108
+  - first:
+      213: 237140659648905311
+    second: Pac Man Sprites_109
+  - first:
+      213: -3636610292337907506
+    second: Pac Man Sprites_110
+  - first:
+      213: -5900282207580844927
+    second: Pac Man Sprites_111
+  - first:
+      213: -4032910005661038713
+    second: Pac Man Sprites_112
+  - first:
+      213: 7967420391065544825
+    second: Pac Man Sprites_113
+  - first:
+      213: 3640073058325218990
+    second: Pac Man Sprites_114
+  - first:
+      213: 2637257117746104106
+    second: Pac Man Sprites_115
+  - first:
+      213: -2694461202045621551
+    second: Pac Man Sprites_116
+  - first:
+      213: -7075606629961291108
+    second: Pac Man Sprites_117
+  - first:
+      213: -6891401420714832104
+    second: Pac Man Sprites_118
+  - first:
+      213: -8670970303041189711
+    second: Pac Man Sprites_119
+  - first:
+      213: -3126805070334424189
+    second: Pac Man Sprites_120
+  - first:
+      213: -7090981943712148327
+    second: Pac Man Sprites_121
+  - first:
+      213: 3897562807766169257
+    second: Pac Man Sprites_122
+  - first:
+      213: 3478237297380448656
+    second: Pac Man Sprites_123
+  - first:
+      213: 3592215217969702729
+    second: Pac Man Sprites_124
+  - first:
+      213: 6765515418054514389
+    second: Pac Man Sprites_125
+  - first:
+      213: -7547679377645107390
+    second: Pac Man Sprites_126
+  - first:
+      213: 7562813289592675177
+    second: Pac Man Sprites_127
+  - first:
+      213: 449587831771533366
+    second: Pac Man Sprites_128
+  - first:
+      213: 48783167467663103
+    second: Pac Man Sprites_129
+  - first:
+      213: -2199000203619782231
+    second: Pac Man Sprites_130
+  - first:
+      213: -3836832513205700017
+    second: Pac Man Sprites_131
+  - first:
+      213: -6708989026418409243
+    second: Pac Man Sprites_132
+  - first:
+      213: -3604662549151689044
+    second: Pac Man Sprites_133
+  - first:
+      213: -2086325193237543134
+    second: Pac Man Sprites_134
+  - first:
+      213: 1876429350563316717
+    second: Pac Man Sprites_135
+  - first:
+      213: -4334306031336701554
+    second: Pac Man Sprites_136
+  - first:
+      213: -1912856614591289971
+    second: Pac Man Sprites_137
+  - first:
+      213: 1229005580806722635
+    second: Pac Man Sprites_138
+  - first:
+      213: -1846298049449810341
+    second: Pac Man Sprites_139
+  - first:
+      213: 4744542607601706229
+    second: Pac Man Sprites_140
+  - first:
+      213: -2652826504970003767
+    second: Pac Man Sprites_141
+  - first:
+      213: -2248828623870333417
+    second: Pac Man Sprites_142
+  - first:
+      213: -8080157193087841889
+    second: Pac Man Sprites_143
+  - first:
+      213: -3694206814411425920
+    second: Pac Man Sprites_144
+  - first:
+      213: -4479463486515278802
+    second: Pac Man Sprites_145
+  - first:
+      213: 2588403352701548466
+    second: Pac Man Sprites_146
+  - first:
+      213: -1209924516564400212
+    second: Pac Man Sprites_147
+  - first:
+      213: 5927792866665660909
+    second: Pac Man Sprites_148
+  - first:
+      213: -315428056486131162
+    second: Pac Man Sprites_149
+  - first:
+      213: -7293953640130771567
+    second: Pac Man Sprites_150
+  - first:
+      213: 6315971877801206555
+    second: Pac Man Sprites_151
+  - first:
+      213: -8062468759922454256
+    second: Pac Man Sprites_152
+  - first:
+      213: -6619790320378859985
+    second: Pac Man Sprites_153
+  - first:
+      213: -4788365597593062907
+    second: Pac Man Sprites_154
+  - first:
+      213: -8450955607810628299
+    second: Pac Man Sprites_155
+  - first:
+      213: -5583953288702469926
+    second: Pac Man Sprites_156
+  - first:
+      213: -2261643712004407719
+    second: Pac Man Sprites_157
+  - first:
+      213: -8731064262465855909
+    second: Pac Man Sprites_158
+  - first:
+      213: -6826375094205354642
+    second: Pac Man Sprites_159
+  - first:
+      213: -3550334380361278042
+    second: Pac Man Sprites_160
+  - first:
+      213: 6646727559535667688
+    second: Pac Man Sprites_161
+  - first:
+      213: -5851750003138987226
+    second: Pac Man Sprites_162
+  - first:
+      213: -417581810123493748
+    second: Pac Man Sprites_163
+  - first:
+      213: -2433064066819712139
+    second: Pac Man Sprites_164
+  - first:
+      213: 1723212650085628875
+    second: Pac Man Sprites_165
+  - first:
+      213: 5341317083951999199
+    second: Pac Man Sprites_166
+  - first:
+      213: -7769272879147742473
+    second: Pac Man Sprites_167
+  - first:
+      213: -8381549573393565134
+    second: Pac Man Sprites_168
+  - first:
+      213: -2391706038261287068
+    second: Pac Man Sprites_169
+  - first:
+      213: 3661000892686959801
+    second: Pac Man Sprites_170
+  - first:
+      213: -3329213997523562185
+    second: Pac Man Sprites_171
+  - first:
+      213: -5772670849477506915
+    second: Pac Man Sprites_172
+  - first:
+      213: 6094101643305924623
+    second: Pac Man Sprites_173
+  - first:
+      213: -7513613634547297063
+    second: Pac Man Sprites_174
+  - first:
+      213: -2744937635875813173
+    second: Pac Man Sprites_175
+  - first:
+      213: -7952059087793839414
+    second: Pac Man Sprites_176
+  - first:
+      213: -8210724562659645524
+    second: Pac Man Sprites_177
+  - first:
+      213: -2929159060270510808
+    second: Pac Man Sprites_178
+  - first:
+      213: -5027850829616532471
+    second: Pac Man Sprites_179
+  - first:
+      213: 4691419662489223307
+    second: Pac Man Sprites_180
+  - first:
+      213: 6882557070637432918
+    second: Pac Man Sprites_181
+  - first:
+      213: 2594451598493436721
+    second: Pac Man Sprites_182
+  - first:
+      213: 8193849688387602792
+    second: Pac Man Sprites_183
+  - first:
+      213: 4650835623480125657
+    second: Pac Man Sprites_184
+  - first:
+      213: 6572112489556257381
+    second: Pac Man Sprites_185
+  - first:
+      213: 3472843566917286761
+    second: Pac Man Sprites_186
+  - first:
+      213: -2387823457095141205
+    second: Pac Man Sprites_187
+  - first:
+      213: -1577517830039545808
+    second: Pac Man Sprites_188
+  - first:
+      213: -3718847050315849588
+    second: Pac Man Sprites_189
+  - first:
+      213: 2178674380292301975
+    second: Pac Man Sprites_190
+  - first:
+      213: 6262816591102502496
+    second: Pac Man Sprites_191
+  - first:
+      213: -4381211493807928410
+    second: Pac Man Sprites_432
+  - first:
+      213: 7725957543611512562
+    second: Pac Man Sprites_433
+  - first:
+      213: 1281448646824753461
+    second: Pac Man Sprites_434
+  - first:
+      213: 6231981122810526383
+    second: Pac Man Sprites_435
+  - first:
+      213: -760600739678546811
+    second: Pac Man Sprites_436
+  - first:
+      213: 4290942749167602051
+    second: Pac Man Sprites_437
+  - first:
+      213: -1110610045943893226
+    second: Pac Man Sprites_438
+  - first:
+      213: 5987629394163278057
+    second: Pac Man Sprites_439
+  - first:
+      213: -2221762411313667557
+    second: Pac Man Sprites_440
+  - first:
+      213: -645002911966053964
+    second: Pac Man Sprites_441
+  - first:
+      213: -8627021180828847807
+    second: Pac Man Sprites_442
+  - first:
+      213: -368175806105854692
+    second: Pac Man Sprites_443
+  - first:
+      213: -8802529459046940530
+    second: Pac Man Sprites_444
+  - first:
+      213: 2668462780323468185
+    second: Pac Man Sprites_445
+  - first:
+      213: -399903424702643964
+    second: Pac Man Sprites_446
+  - first:
+      213: -2416987422274187656
+    second: Pac Man Sprites_447
+  - first:
+      213: 1748540652195668996
+    second: Pac Man Sprites_448
+  - first:
+      213: 4025598951996402907
+    second: Pac Man Sprites_449
+  - first:
+      213: -1217135992010469820
+    second: Pac Man Sprites_450
+  - first:
+      213: 7924768559721063805
+    second: Pac Man Sprites_451
+  - first:
+      213: 6578849396398512177
+    second: Pac Man Sprites_452
+  - first:
+      213: 7666952303797511882
+    second: Pac Man Sprites_453
+  - first:
+      213: 8322798301956204806
+    second: Pac Man Sprites_454
+  - first:
+      213: 6042765385985200217
+    second: Pac Man Sprites_455
+  - first:
+      213: 8259541145728545789
+    second: Pac Man Sprites_456
+  - first:
+      213: -8113655218928583534
+    second: Pac Man Sprites_457
+  - first:
+      213: 5088624287213587109
+    second: Pac Man Sprites_458
+  - first:
+      213: 3998576691918848355
+    second: Pac Man Sprites_459
+  - first:
+      213: -2168779116989778945
+    second: Pac Man Sprites_460
+  - first:
+      213: 5719857599039685998
+    second: Pac Man Sprites_461
+  - first:
+      213: -6092156917707545159
+    second: Pac Man Sprites_462
+  - first:
+      213: 8157502803441294239
+    second: Pac Man Sprites_463
+  - first:
+      213: -6199533323854273770
+    second: Pac Man Sprites_464
+  - first:
+      213: 422852515728321112
+    second: Pac Man Sprites_465
+  - first:
+      213: -5131996025532345240
+    second: Pac Man Sprites_466
+  - first:
+      213: -695073660492327899
+    second: Pac Man Sprites_467
+  - first:
+      213: 565012118878093685
+    second: Pac Man Sprites_468
+  - first:
+      213: -8245927913518771415
+    second: Pac Man Sprites_469
+  - first:
+      213: 657091334844764697
+    second: Pac Man Sprites_470
+  - first:
+      213: -3069404915052495859
+    second: Pac Man Sprites_471
+  - first:
+      213: -4740816721764157718
+    second: Pac Man Sprites_472
+  - first:
+      213: -1886263227343539682
+    second: Pac Man Sprites_473
+  - first:
+      213: -6146178029582999254
+    second: Pac Man Sprites_474
+  - first:
+      213: 7349276643648524418
+    second: Pac Man Sprites_475
+  - first:
+      213: -4625150792295002396
+    second: Pac Man Sprites_476
+  - first:
+      213: -713265163382104496
+    second: Pac Man Sprites_477
+  - first:
+      213: -2095074642252333716
+    second: Pac Man Sprites_478
+  - first:
+      213: 8263412652730377918
+    second: Pac Man Sprites_479
+  - first:
+      213: -6858900504564764888
+    second: Pac Man Sprites_480
+  - first:
+      213: 7001793240775801199
+    second: Pac Man Sprites_481
+  - first:
+      213: -7354231414304920675
+    second: Pac Man Sprites_482
+  - first:
+      213: 317997531803008594
+    second: Pac Man Sprites_483
+  - first:
+      213: 1607784119629958866
+    second: Pac Man Sprites_484
+  - first:
+      213: -8285210668090365968
+    second: Pac Man Sprites_485
+  - first:
+      213: 5047161792506179567
+    second: Pac Man Sprites_486
+  - first:
+      213: -5364938459575394932
+    second: Pac Man Sprites_487
+  - first:
+      213: -3571509136787467192
+    second: Pac Man Sprites_488
+  - first:
+      213: -5502846816975299451
+    second: Pac Man Sprites_489
+  - first:
+      213: -7710437605953507732
+    second: Pac Man Sprites_490
+  - first:
+      213: -1152506524387838547
+    second: Pac Man Sprites_491
+  - first:
+      213: 1122199895144872387
+    second: Pac Man Sprites_492
+  - first:
+      213: 187848389319138878
+    second: Pac Man Sprites_493
+  - first:
+      213: -2376688682647343442
+    second: Pac Man Sprites_494
+  - first:
+      213: 2103556736756589710
+    second: Pac Man Sprites_495
+  - first:
+      213: -4103930178757643165
+    second: Pac Man Sprites_496
+  - first:
+      213: -3670083872403772566
+    second: Pac Man Sprites_497
+  - first:
+      213: -5426790384754489740
+    second: Pac Man Sprites_498
+  - first:
+      213: 6604694004310547951
+    second: Pac Man Sprites_499
+  - first:
+      213: -7402999890293171243
+    second: Pac Man Sprites_500
+  - first:
+      213: -6036242799324963408
+    second: Pac Man Sprites_501
+  - first:
+      213: -6243390238011760262
+    second: Pac Man Sprites_502
+  - first:
+      213: -9206469568994807495
+    second: Pac Man Sprites_503
+  - first:
+      213: 2910272913383412576
+    second: Pac Man Sprites_504
+  - first:
+      213: -5551248314958869492
+    second: Pac Man Sprites_505
+  - first:
+      213: 2972502182399512692
+    second: Pac Man Sprites_506
+  - first:
+      213: 8445643839596818173
+    second: Pac Man Sprites_507
+  - first:
+      213: 8502955653309152271
+    second: Pac Man Sprites_508
+  - first:
+      213: -8228677883246900792
+    second: Pac Man Sprites_509
+  - first:
+      213: -4883442550682852764
+    second: Pac Man Sprites_510
+  - first:
+      213: -7053381448063511636
+    second: Pac Man Sprites_511
+  - first:
+      213: 1474619067436455176
+    second: Pac Man Sprites_512
+  - first:
+      213: -3013753841114512612
+    second: Pac Man Sprites_513
+  - first:
+      213: -4621757733570153019
+    second: Pac Man Sprites_514
+  - first:
+      213: 1846813128951751706
+    second: Pac Man Sprites_515
+  - first:
+      213: -1692817513994440173
+    second: Pac Man Sprites_516
+  - first:
+      213: 4753072101844546915
+    second: Pac Man Sprites_517
+  - first:
+      213: 684511276360915079
+    second: Pac Man Sprites_518
+  - first:
+      213: 8151674413381775859
+    second: Pac Man Sprites_519
+  - first:
+      213: -6892785621317799945
+    second: Pac Man Sprites_520
+  - first:
+      213: -6077946076014106444
+    second: Pac Man Sprites_521
+  - first:
+      213: -8310029451674496195
+    second: Pac Man Sprites_522
+  - first:
+      213: -1208970303938591857
+    second: Pac Man Sprites_523
+  - first:
+      213: 6550819626712716740
+    second: Pac Man Sprites_524
+  - first:
+      213: -8869659803332249187
+    second: Pac Man Sprites_525
+  - first:
+      213: 8213607105688180579
+    second: Pac Man Sprites_526
+  - first:
+      213: 3621568435752665486
+    second: Pac Man Sprites_527
+  - first:
+      213: -6593466188810902611
+    second: Pac Man Sprites_528
+  - first:
+      213: -3696602182124593058
+    second: Pac Man Sprites_529
+  - first:
+      213: -8218447509939732370
+    second: Pac Man Sprites_530
+  - first:
+      213: 4401622804808856588
+    second: Pac Man Sprites_531
+  - first:
+      213: -3416674345365048355
+    second: Pac Man Sprites_532
+  - first:
+      213: 7102266317023636966
+    second: Pac Man Sprites_533
+  - first:
+      213: -7446673448040840436
+    second: Pac Man Sprites_534
+  - first:
+      213: 82458009176451815
+    second: Pac Man Sprites_535
+  - first:
+      213: -8421034978524970623
+    second: Pac Man Sprites_536
+  - first:
+      213: 8178239013183705719
+    second: Pac Man Sprites_537
+  - first:
+      213: 2904593463730257606
+    second: Pac Man Sprites_538
+  - first:
+      213: 8772028786514749178
+    second: Pac Man Sprites_539
+  - first:
+      213: 8474267305771164183
+    second: Pac Man Sprites_540
+  - first:
+      213: 7251697771260626576
+    second: Pac Man Sprites_541
+  - first:
+      213: -7372517629855970241
+    second: Pac Man Sprites_542
+  - first:
+      213: 8979777553443615875
+    second: Pac Man Sprites_543
+  - first:
+      213: 7281040541285652881
+    second: Pac Man Sprites_544
+  - first:
+      213: -8565123822540535678
+    second: Pac Man Sprites_545
+  - first:
+      213: -8907475859535497735
+    second: Pac Man Sprites_546
+  - first:
+      213: -7796034477772869316
+    second: Pac Man Sprites_547
+  - first:
+      213: -4477029945430593316
+    second: Pac Man Sprites_548
+  - first:
+      213: -4614127999038917819
+    second: Pac Man Sprites_549
+  - first:
+      213: 4499289059872144610
+    second: Pac Man Sprites_550
+  - first:
+      213: -2061089374835242937
+    second: Pac Man Sprites_551
+  - first:
+      213: 5138594964854463534
+    second: Pac Man Sprites_552
+  - first:
+      213: 2640902165666269521
+    second: Pac Man Sprites_553
+  - first:
+      213: -3578756207663354293
+    second: Pac Man Sprites_554
+  - first:
+      213: 7732601216662869809
+    second: Pac Man Sprites_555
+  - first:
+      213: 7987128300715870484
+    second: Pac Man Sprites_556
+  - first:
+      213: -4528699310310269979
+    second: Pac Man Sprites_557
+  - first:
+      213: 1317667827693937833
+    second: Pac Man Sprites_558
+  - first:
+      213: -4048533473775355238
+    second: Pac Man Sprites_559
+  - first:
+      213: -6755455636253512473
+    second: Pac Man Sprites_560
+  - first:
+      213: 3846542683677681967
+    second: Pac Man Sprites_561
+  - first:
+      213: 2707425944747823182
+    second: Pac Man Sprites_562
+  - first:
+      213: -2132343923152364489
+    second: Pac Man Sprites_563
+  - first:
+      213: -7800079795475727137
+    second: Pac Man Sprites_564
+  - first:
+      213: 3881813308146762930
+    second: Pac Man Sprites_565
+  - first:
+      213: -4622579479356150201
+    second: Pac Man Sprites_566
+  - first:
+      213: 1933076109691220289
+    second: Pac Man Sprites_567
+  - first:
+      213: 7364046560664629288
+    second: Pac Man Sprites_568
+  - first:
+      213: -8353325297586147997
+    second: Pac Man Sprites_569
+  - first:
+      213: -5530734919590319291
+    second: Pac Man Sprites_570
+  - first:
+      213: 8143780738622818424
+    second: Pac Man Sprites_571
+  - first:
+      213: 5433273816313283914
+    second: Pac Man Sprites_572
+  - first:
+      213: -5301228344630920084
+    second: Pac Man Sprites_573
+  - first:
+      213: -4062445479450653770
+    second: Pac Man Sprites_574
+  - first:
+      213: -2558208233215711498
+    second: Pac Man Sprites_575
+  - first:
+      213: -3059115619314930197
+    second: Pac Man Sprites_576
+  - first:
+      213: -2987217639058649753
+    second: Pac Man Sprites_577
+  - first:
+      213: 3043483863931203103
+    second: Pac Man Sprites_578
+  - first:
+      213: -9188569445349970533
+    second: Pac Man Sprites_579
+  - first:
+      213: 2967255066668381753
+    second: Pac Man Sprites_580
+  - first:
+      213: 4676699593591277800
+    second: Pac Man Sprites_581
+  - first:
+      213: -8963935989967595877
+    second: Pac Man Sprites_582
+  - first:
+      213: 2658968488708020186
+    second: Pac Man Sprites_583
+  - first:
+      213: -3657531492421243618
+    second: Pac Man Sprites_584
+  - first:
+      213: 227076718932286509
+    second: Pac Man Sprites_585
+  - first:
+      213: -1225162766538564698
+    second: Pac Man Sprites_586
+  - first:
+      213: 4664793957742864665
+    second: Pac Man Sprites_587
+  - first:
+      213: -6045315937229168900
+    second: Pac Man Sprites_588
+  - first:
+      213: 338137387291592204
+    second: Pac Man Sprites_589
+  - first:
+      213: -1681334346665732522
+    second: Pac Man Sprites_590
+  - first:
+      213: 8086309622231151827
+    second: Pac Man Sprites_591
+  - first:
+      213: -3639896780455074209
+    second: Pac Man Sprites_592
+  - first:
+      213: 4939245455931745419
+    second: Pac Man Sprites_593
+  - first:
+      213: -1733728730448115588
+    second: Pac Man Sprites_594
+  - first:
+      213: 8149276416472754365
+    second: Pac Man Sprites_595
+  - first:
+      213: -8811150888156458432
+    second: Pac Man Sprites_596
+  - first:
+      213: 231804882084420984
+    second: Pac Man Sprites_597
+  - first:
+      213: 8917630417898321136
+    second: Pac Man Sprites_598
+  - first:
+      213: 4935686614180692437
+    second: Pac Man Sprites_599
+  - first:
+      213: -5279110335251521250
+    second: Pac Man Sprites_600
+  - first:
+      213: -1045677765515853230
+    second: Pac Man Sprites_601
+  - first:
+      213: -6179508080311534306
+    second: Pac Man Sprites_602
+  - first:
+      213: 984061953121618722
+    second: Pac Man Sprites_603
+  - first:
+      213: -7054412912352741005
+    second: Pac Man Sprites_604
+  - first:
+      213: 8847259646666784055
+    second: Pac Man Sprites_605
+  - first:
+      213: 2115221625194905397
+    second: Pac Man Sprites_606
+  - first:
+      213: -3087342578962015440
+    second: Pac Man Sprites_607
+  - first:
+      213: 6176470155274937522
+    second: Pac Man Sprites_608
+  - first:
+      213: -3376033783414883892
+    second: Pac Man Sprites_609
+  - first:
+      213: -5974227834124606596
+    second: Pac Man Sprites_610
+  - first:
+      213: 359049978053590854
+    second: Pac Man Sprites_611
+  - first:
+      213: 2323587636788121521
+    second: Pac Man Sprites_612
+  - first:
+      213: -5253270140026022019
+    second: Pac Man Sprites_613
+  - first:
+      213: 1163487799313456923
+    second: Pac Man Sprites_614
+  - first:
+      213: -133224960561292786
+    second: Pac Man Sprites_615
+  - first:
+      213: 6928972782319707789
+    second: Pac Man Sprites_616
+  - first:
+      213: -5934717933301223054
+    second: Pac Man Sprites_617
+  - first:
+      213: 1907378606974071374
+    second: Pac Man Sprites_618
+  - first:
+      213: -8542022770328631108
+    second: Pac Man Sprites_619
+  - first:
+      213: 254136491644212497
+    second: Pac Man Sprites_620
+  - first:
+      213: -5368952429554441825
+    second: Pac Man Sprites_621
+  - first:
+      213: -49270052355988638
+    second: Pac Man Sprites_622
+  - first:
+      213: 5125934572121459725
+    second: Pac Man Sprites_623
+  - first:
+      213: -4608874085825204999
+    second: Pac Man Sprites_624
+  - first:
+      213: -8353243292373275747
+    second: Pac Man Sprites_625
+  - first:
+      213: -4590082517488698769
+    second: Pac Man Sprites_626
+  - first:
+      213: -3314862232199715880
+    second: Pac Man Sprites_627
+  - first:
+      213: 5804347873877288879
+    second: Pac Man Sprites_628
+  - first:
+      213: -3433663687315600918
+    second: Pac Man Sprites_629
+  - first:
+      213: 1857503780750074976
+    second: Pac Man Sprites_630
+  - first:
+      213: -174638766492442458
+    second: Pac Man Sprites_631
+  - first:
+      213: -4309281344871191342
+    second: Pac Man Sprites_632
+  - first:
+      213: 995635355427980316
+    second: Pac Man Sprites_633
+  - first:
+      213: -9215007836641332702
+    second: Pac Man Sprites_634
+  - first:
+      213: -674068416157960400
+    second: Pac Man Sprites_635
+  - first:
+      213: 3282849041481908891
+    second: Pac Man Sprites_636
+  - first:
+      213: -1382843153353767628
+    second: Pac Man Sprites_637
+  - first:
+      213: -1470511987818559260
+    second: Pac Man Sprites_638
+  - first:
+      213: 3889674178602482256
+    second: Pac Man Sprites_639
+  - first:
+      213: 8342340999467294230
+    second: Pac Man Sprites_640
+  - first:
+      213: 1985300512260587869
+    second: Pac Man Sprites_641
+  - first:
+      213: 4437199947003314462
+    second: Pac Man Sprites_642
+  - first:
+      213: 7993731850817320088
+    second: Pac Man Sprites_643
+  - first:
+      213: 2121490528006609576
+    second: Pac Man Sprites_644
+  - first:
+      213: -5209905262247249605
+    second: Pac Man Sprites_645
+  - first:
+      213: -2314159517390378042
+    second: Pac Man Sprites_646
+  - first:
+      213: 257039601643467597
+    second: Pac Man Sprites_647
+  - first:
+      213: -8653418371927178546
+    second: Pac Man Sprites_648
+  - first:
+      213: -713593154040583923
+    second: Pac Man Sprites_649
+  - first:
+      213: 6298761740750909425
+    second: Pac Man Sprites_650
+  - first:
+      213: -5749770262824759929
+    second: Pac Man Sprites_651
+  - first:
+      213: 1537088667121059587
+    second: Pac Man Sprites_652
+  - first:
+      213: 5874396090738022885
+    second: Pac Man Sprites_653
+  - first:
+      213: 2733588559146399552
+    second: Pac Man Sprites_654
+  - first:
+      213: -6206000554653627966
+    second: Pac Man Sprites_655
+  - first:
+      213: -2660716039018234733
+    second: Pac Man Sprites_656
+  - first:
+      213: -5250048371402489520
+    second: Pac Man Sprites_657
+  - first:
+      213: 6857848492640101921
+    second: Pac Man Sprites_658
+  - first:
+      213: -1034639542091402260
+    second: Pac Man Sprites_659
+  - first:
+      213: -25739927229122346
+    second: Pac Man Sprites_660
+  - first:
+      213: 6466718539475507352
+    second: Pac Man Sprites_661
+  - first:
+      213: 8495112724929320433
+    second: Pac Man Sprites_662
+  - first:
+      213: 1447618288949599283
+    second: Pac Man Sprites_663
+  - first:
+      213: 1683418371128002715
+    second: Pac Man Sprites_664
+  - first:
+      213: 6466967160262649367
+    second: Pac Man Sprites_665
+  - first:
+      213: -1825123536020958820
+    second: Pac Man Sprites_666
+  - first:
+      213: 172983156573329660
+    second: Pac Man Sprites_667
+  - first:
+      213: 7359591907547563129
+    second: Pac Man Sprites_668
+  - first:
+      213: 8622598976386076149
+    second: Pac Man Sprites_669
+  - first:
+      213: 188835497513748814
+    second: Pac Man Sprites_670
+  - first:
+      213: 1239417545240623673
+    second: Pac Man Sprites_671
+  - first:
+      213: 6376121866074821539
+    second: Pac Man Sprites_672
+  - first:
+      213: 2004524600994165219
+    second: Pac Man Sprites_673
+  - first:
+      213: -8482844278605661088
+    second: Pac Man Sprites_674
+  - first:
+      213: -4797646071211046281
+    second: Pac Man Sprites_675
+  - first:
+      213: -6575638853759490238
+    second: Pac Man Sprites_676
+  - first:
+      213: -8899177681460362701
+    second: Pac Man Sprites_677
+  - first:
+      213: -691518738827088130
+    second: Pac Man Sprites_678
+  - first:
+      213: -3751871214792124921
+    second: Pac Man Sprites_679
+  - first:
+      213: 4425885048276337807
+    second: Pac Man Sprites_680
+  - first:
+      213: -483983895670172506
+    second: Pac Man Sprites_681
+  - first:
+      213: 5449088927737331861
+    second: Pac Man Sprites_682
+  - first:
+      213: 4604241297832842656
+    second: Pac Man Sprites_683
+  - first:
+      213: -4217323720504426997
+    second: Pac Man Sprites_684
+  - first:
+      213: -8242691026505243964
+    second: Pac Man Sprites_685
+  - first:
+      213: -3292877307556833388
+    second: Pac Man Sprites_686
+  - first:
+      213: -7437273219011339995
+    second: Pac Man Sprites_687
+  - first:
+      213: 2989214382003653370
+    second: Pac Man Sprites_688
+  - first:
+      213: -8032494557555723866
+    second: Pac Man Sprites_689
+  - first:
+      213: 2346826999327630823
+    second: Pac Man Sprites_690
+  - first:
+      213: 7389189800101613975
+    second: Pac Man Sprites_691
+  - first:
+      213: 735196267836883830
+    second: Pac Man Sprites_692
+  - first:
+      213: -9033789016265583160
+    second: Pac Man Sprites_693
+  - first:
+      213: -7766280143298044935
+    second: Pac Man Sprites_694
+  - first:
+      213: -280558792645636660
+    second: Pac Man Sprites_695
+  - first:
+      213: 7773092194146156240
+    second: Pac Man Sprites_696
+  - first:
+      213: -4835313473755197194
+    second: Pac Man Sprites_697
+  - first:
+      213: 3843988299606568550
+    second: Pac Man Sprites_698
+  - first:
+      213: -5054637010900780288
+    second: Pac Man Sprites_699
+  - first:
+      213: -5917500951308894895
+    second: Pac Man Sprites_700
+  - first:
+      213: -1856918709111642573
+    second: Pac Man Sprites_701
+  - first:
+      213: 2514557317648288560
+    second: Pac Man Sprites_702
+  - first:
+      213: -5402869224610236292
+    second: Pac Man Sprites_703
+  - first:
+      213: -2543221619801628609
+    second: Pac Man Sprites_704
+  - first:
+      213: 3859442601841007779
+    second: Pac Man Sprites_705
+  - first:
+      213: -6415059610026808167
+    second: Pac Man Sprites_706
+  - first:
+      213: 7642185949872245327
+    second: Pac Man Sprites_707
+  - first:
+      213: 8632277595931080766
+    second: Pac Man Sprites_708
+  - first:
+      213: 5051435113060525357
+    second: Pac Man Sprites_709
+  - first:
+      213: 1439954808460795789
+    second: Pac Man Sprites_710
+  - first:
+      213: -7676844246122234010
+    second: Pac Man Sprites_711
+  - first:
+      213: 4510082277712150790
+    second: Pac Man Sprites_712
+  - first:
+      213: -7932411689572621912
+    second: Pac Man Sprites_713
+  - first:
+      213: 8602073751747576242
+    second: Pac Man Sprites_714
+  - first:
+      213: -2086897821580972392
+    second: Pac Man Sprites_715
+  - first:
+      213: -7329156341120910777
+    second: Pac Man Sprites_716
+  - first:
+      213: -5988522907144469194
+    second: Pac Man Sprites_717
+  - first:
+      213: -873721416800541891
+    second: Pac Man Sprites_718
+  - first:
+      213: 7752390816078648086
+    second: Pac Man Sprites_719
+  - first:
+      213: 7464612738533777483
+    second: Pac Man Sprites_720
+  - first:
+      213: -2758559582428513986
+    second: Pac Man Sprites_721
+  - first:
+      213: 2615447892846527402
+    second: Pac Man Sprites_722
+  - first:
+      213: -5999376907243895300
+    second: Pac Man Sprites_723
+  - first:
+      213: -5015095338874756555
+    second: Pac Man Sprites_724
+  - first:
+      213: -2021481050256346080
+    second: Pac Man Sprites_725
+  - first:
+      213: 6683311971161846034
+    second: Pac Man Sprites_726
+  - first:
+      213: -1299648026289428476
+    second: Pac Man Sprites_727
+  - first:
+      213: 3031782031403695947
+    second: Pac Man Sprites_728
+  - first:
+      213: -4910846030138112069
+    second: Pac Man Sprites_729
+  - first:
+      213: -1812693228551200820
+    second: Pac Man Sprites_730
+  - first:
+      213: -1752755085852136305
+    second: Pac Man Sprites_731
+  - first:
+      213: 5578943699961242007
+    second: Pac Man Sprites_732
+  - first:
+      213: 6032909687491357953
+    second: Pac Man Sprites_733
+  - first:
+      213: 2779369202526338850
+    second: Pac Man Sprites_734
+  - first:
+      213: 7645784438592351044
+    second: Pac Man Sprites_735
+  - first:
+      213: 5729143235243945521
+    second: Pac Man Sprites_736
+  - first:
+      213: 5154741454930233344
+    second: Pac Man Sprites_737
+  - first:
+      213: -5717757539601119670
+    second: Pac Man Sprites_738
+  - first:
+      213: 4675054126571702238
+    second: Pac Man Sprites_739
+  - first:
+      213: -9195607909942292458
+    second: Pac Man Sprites_740
+  - first:
+      213: 6405738268391750109
+    second: Pac Man Sprites_741
+  - first:
+      213: -2939604035688812151
+    second: Pac Man Sprites_742
+  - first:
+      213: -251370846731141785
+    second: Pac Man Sprites_743
+  - first:
+      213: 4073054531604425176
+    second: Pac Man Sprites_744
+  - first:
+      213: 1150242329302291430
+    second: Pac Man Sprites_745
+  - first:
+      213: -4037468093526418272
+    second: Pac Man Sprites_746
+  - first:
+      213: -239132335812312462
+    second: Pac Man Sprites_747
+  - first:
+      213: -8729543360773029349
+    second: Pac Man Sprites_748
+  - first:
+      213: 1846151642616976848
+    second: Pac Man Sprites_749
+  - first:
+      213: -2072513627695665800
+    second: Pac Man Sprites_750
+  - first:
+      213: -19548336916912084
+    second: Pac Man Sprites_751
+  - first:
+      213: -7972781072852990854
+    second: Pac Man Sprites_752
+  - first:
+      213: 5625487365024294013
+    second: Pac Man Sprites_753
+  - first:
+      213: 2370993768664531560
+    second: Pac Man Sprites_754
+  - first:
+      213: -131879744580015051
+    second: Pac Man Sprites_755
+  - first:
+      213: -2282733170386527514
+    second: Pac Man Sprites_756
+  - first:
+      213: -6884981497910764051
+    second: Pac Man Sprites_757
+  - first:
+      213: 2151317701079000925
+    second: Pac Man Sprites_758
+  - first:
+      213: -2273347878468293858
+    second: Pac Man Sprites_759
+  - first:
+      213: -7039691365821169610
+    second: Pac Man Sprites_760
+  - first:
+      213: -3080442174025850008
+    second: Pac Man Sprites_761
+  - first:
+      213: 7859609849522871941
+    second: Pac Man Sprites_762
+  - first:
+      213: -8495945474984000
+    second: Pac Man Sprites_763
+  - first:
+      213: 9191209842825232918
+    second: Pac Man Sprites_764
+  - first:
+      213: 6663821852095514890
+    second: Pac Man Sprites_765
+  - first:
+      213: -7184509438095668108
+    second: Pac Man Sprites_766
+  - first:
+      213: 1331709910582641635
+    second: Pac Man Sprites_767
+  - first:
+      213: 4893926477669649723
+    second: Main Sprites_0
+  - first:
+      213: -8028084852623285919
+    second: Main Sprites_1
+  - first:
+      213: 1304170591743088607
+    second: Main Sprites_2
+  - first:
+      213: 8042354971498870099
+    second: Main Sprites_3
+  - first:
+      213: 1396075329459767973
+    second: Main Sprites_4
+  - first:
+      213: -6236661180243752358
+    second: Main Sprites_5
+  - first:
+      213: 7016545967889221934
+    second: Main Sprites_6
+  - first:
+      213: 4792115646443203769
+    second: Main Sprites_7
+  - first:
+      213: -160075282444288974
+    second: Main Sprites_8
+  - first:
+      213: -8421431324739868625
+    second: Main Sprites_9
+  - first:
+      213: -3911496547546819632
+    second: Main Sprites_10
+  - first:
+      213: 5820804724075967833
+    second: Main Sprites_11
+  - first:
+      213: 7682953917536421496
+    second: Main Sprites_12
+  - first:
+      213: -1732943137125053929
+    second: Main Sprites_13
+  - first:
+      213: -600047106956459217
+    second: Main Sprites_14
+  - first:
+      213: 4388663134748841750
+    second: Main Sprites_15
+  - first:
+      213: 4005019036017382378
+    second: Main Sprites_16
+  - first:
+      213: -6700772947665591889
+    second: Main Sprites_17
+  - first:
+      213: -1006352185371935421
+    second: Main Sprites_18
+  - first:
+      213: 6898701486116910270
+    second: Main Sprites_19
+  - first:
+      213: -1099766752332756945
+    second: Main Sprites_20
+  - first:
+      213: 2213757331725145809
+    second: Main Sprites_21
+  - first:
+      213: -8402497536781158041
+    second: Main Sprites_22
+  - first:
+      213: 682405070546904015
+    second: Main Sprites_23
+  - first:
+      213: -3769491847051451574
+    second: Main Sprites_24
+  - first:
+      213: -5178163573831001287
+    second: Main Sprites_25
+  - first:
+      213: 8609591180437228925
+    second: Main Sprites_26
+  - first:
+      213: -6122949048040981148
+    second: Main Sprites_27
+  - first:
+      213: -856560738444958621
+    second: Main Sprites_28
+  - first:
+      213: -6160843708281962546
+    second: Main Sprites_29
+  - first:
+      213: 8701787893811394010
+    second: Main Sprites_30
+  - first:
+      213: -221901381252568475
+    second: Main Sprites_31
+  - first:
+      213: -6683267442759990279
+    second: Main Sprites_32
+  - first:
+      213: -690846725610270166
+    second: Main Sprites_33
+  - first:
+      213: 512512132435759966
+    second: Main Sprites_34
+  - first:
+      213: -7093208620784673724
+    second: Main Sprites_35
+  - first:
+      213: 6582423804962329997
+    second: Main Sprites_36
+  - first:
+      213: -8488354265847454817
+    second: Main Sprites_37
+  - first:
+      213: 5768289177362822765
+    second: Main Sprites_38
+  - first:
+      213: -9220026527917587131
+    second: Main Sprites_39
+  - first:
+      213: 8526653020801735421
+    second: Main Sprites_40
+  - first:
+      213: -4966145696421776609
+    second: Main Sprites_41
+  - first:
+      213: 7254783358116568754
+    second: Main Sprites_42
+  - first:
+      213: 6354476175731900866
+    second: Main Sprites_43
+  - first:
+      213: 5670246294440164041
+    second: Main Sprites_44
+  - first:
+      213: 2023728347941034217
+    second: Main Sprites_45
+  - first:
+      213: 2683601749786772590
+    second: Main Sprites_46
+  - first:
+      213: -6802669959319015285
+    second: Main Sprites_47
+  - first:
+      213: 6086065698374757673
+    second: Main Sprites_48
+  - first:
+      213: -7663455330423540976
+    second: Main Sprites_49
+  - first:
+      213: -818274676808539427
+    second: Main Sprites_50
+  - first:
+      213: 518638485102787838
+    second: Main Sprites_51
+  - first:
+      213: 7735509747186723026
+    second: Main Sprites_52
+  - first:
+      213: 5938356206013012642
+    second: Main Sprites_53
+  - first:
+      213: -2493429698844585289
+    second: Main Sprites_54
+  - first:
+      213: 2533922716832134083
+    second: Main Sprites_55
+  - first:
+      213: -2751047972958746652
+    second: Main Sprites_56
+  - first:
+      213: -2748479810821407434
+    second: Main Sprites_57
+  - first:
+      213: 5418021904216768161
+    second: Main Sprites_58
+  - first:
+      213: -655086108105987824
+    second: Main Sprites_59
+  - first:
+      213: 5654734073050589166
+    second: Main Sprites_60
+  - first:
+      213: 3400035430928620093
+    second: Main Sprites_61
+  - first:
+      213: -6125406589467484271
+    second: Main Sprites_62
+  - first:
+      213: -1582906925217812637
+    second: Main Sprites_63
+  - first:
+      213: 2956625869294372109
+    second: Main Sprites_64
+  - first:
+      213: 3962656655928308550
+    second: Main Sprites_65
+  - first:
+      213: -3048057599086691132
+    second: Main Sprites_66
+  - first:
+      213: 7821985275454943125
+    second: Main Sprites_67
+  - first:
+      213: 6466192604613189457
+    second: Main Sprites_68
+  - first:
+      213: 4740745728898837530
+    second: Main Sprites_69
+  - first:
+      213: 2235066336429000889
+    second: Main Sprites_70
+  - first:
+      213: 6260399564945549421
+    second: Main Sprites_71
+  - first:
+      213: 2154842872279569841
+    second: Main Sprites_72
+  - first:
+      213: -5237920263145117338
+    second: Main Sprites_73
+  - first:
+      213: -8729467092045951462
+    second: Main Sprites_74
+  - first:
+      213: 7539525310132284786
+    second: Main Sprites_75
+  - first:
+      213: 372691553432562531
+    second: Main Sprites_76
+  - first:
+      213: -3788376382134430151
+    second: Main Sprites_77
+  - first:
+      213: -2899685852378725840
+    second: Main Sprites_78
+  - first:
+      213: 3545505866192012278
+    second: Main Sprites_79
+  - first:
+      213: -1895028639172610473
+    second: Main Sprites_80
+  - first:
+      213: 2101176174323422074
+    second: Main Sprites_81
+  - first:
+      213: 5941914263698144880
+    second: Main Sprites_82
+  - first:
+      213: -5453375215246479213
+    second: Main Sprites_83
+  - first:
+      213: -1943659456017067229
+    second: Main Sprites_84
+  - first:
+      213: 5722608515308037712
+    second: Main Sprites_85
+  - first:
+      213: -6643089718525306568
+    second: Main Sprites_86
+  - first:
+      213: 7438011055759945163
+    second: Main Sprites_87
+  - first:
+      213: 6449339499605425592
+    second: Main Sprites_88
+  - first:
+      213: 2305010571208316856
+    second: Main Sprites_89
+  - first:
+      213: 4547960960906808025
+    second: Main Sprites_90
+  - first:
+      213: -7815401270026133086
+    second: Main Sprites_91
+  - first:
+      213: -7182992191153872862
+    second: Main Sprites_92
+  - first:
+      213: 9062074654009782176
+    second: Main Sprites_93
+  - first:
+      213: -4406321647012524869
+    second: Main Sprites_94
+  - first:
+      213: -3846667848713928441
+    second: Main Sprites_95
+  - first:
+      213: 4181357367759276335
+    second: Main Sprites_96
+  - first:
+      213: -2649216166022543277
+    second: Main Sprites_97
+  - first:
+      213: 5678554460469372877
+    second: Main Sprites_98
+  - first:
+      213: 1771060156744344165
+    second: Main Sprites_99
+  - first:
+      213: 4258979749758068624
+    second: Main Sprites_100
+  - first:
+      213: 6022513519485261223
+    second: Main Sprites_101
+  - first:
+      213: -711971224554041810
+    second: Main Sprites_102
+  - first:
+      213: 8001829426304446550
+    second: Main Sprites_103
+  - first:
+      213: 293750378541966711
+    second: Main Sprites_104
+  - first:
+      213: 9076011418699168432
+    second: Main Sprites_105
+  - first:
+      213: -4204187548969980550
+    second: Main Sprites_106
+  - first:
+      213: 4402015036120253888
+    second: Main Sprites_107
+  - first:
+      213: 2868940460534741519
+    second: Main Sprites_108
+  - first:
+      213: -737990894757552219
+    second: Main Sprites_109
+  - first:
+      213: 5851989784153172089
+    second: Main Sprites_110
+  - first:
+      213: -55873590444394818
+    second: Main Sprites_111
+  - first:
+      213: -1500073613756714186
+    second: Main Sprites_112
+  - first:
+      213: 3115123899144239783
+    second: Main Sprites_113
+  - first:
+      213: -1635602250234212555
+    second: Main Sprites_114
+  - first:
+      213: -6891130923526484469
+    second: Main Sprites_115
+  - first:
+      213: -72984835502403238
+    second: Main Sprites_116
+  - first:
+      213: -1879846570199668599
+    second: Main Sprites_117
+  - first:
+      213: 435589212451554187
+    second: Main Sprites_118
+  - first:
+      213: -3519847821954902302
+    second: Main Sprites_119
+  - first:
+      213: -6820259145430281652
+    second: Main Sprites_120
+  - first:
+      213: 6997514525898366807
+    second: Main Sprites_121
+  - first:
+      213: 3353676567015751964
+    second: Main Sprites_122
+  - first:
+      213: -9214229809246200579
+    second: Main Sprites_123
+  - first:
+      213: -4377821522813280269
+    second: Main Sprites_124
+  - first:
+      213: -5389401467544498287
+    second: Main Sprites_125
+  - first:
+      213: 4273079289889029244
+    second: Main Sprites_126
+  - first:
+      213: -3487325701081602034
+    second: Main Sprites_127
+  - first:
+      213: -1244593480500040900
+    second: Main Sprites_128
+  - first:
+      213: 4058914350413334024
+    second: Main Sprites_129
+  - first:
+      213: -8038796313561848727
+    second: Main Sprites_130
+  - first:
+      213: -7911520952860871298
+    second: Main Sprites_131
+  - first:
+      213: 1181430732321448386
+    second: Main Sprites_132
+  - first:
+      213: -3624278591294382797
+    second: Main Sprites_133
+  - first:
+      213: 1259913544164832610
+    second: Main Sprites_134
+  - first:
+      213: -221679320572430301
+    second: Main Sprites_135
+  - first:
+      213: -8737859225687333953
+    second: Main Sprites_136
+  - first:
+      213: -8285740481411929170
+    second: Main Sprites_137
+  - first:
+      213: -5007326447372387137
+    second: Main Sprites_138
+  - first:
+      213: 7520539652807301460
+    second: Main Sprites_139
+  - first:
+      213: -9184554809893520587
+    second: Main Sprites_140
+  - first:
+      213: 391372179094280727
+    second: Main Sprites_141
+  - first:
+      213: 539439957376888751
+    second: Main Sprites_142
+  - first:
+      213: 7649464579588801488
+    second: Main Sprites_143
+  - first:
+      213: 6130462372834719427
+    second: Main Sprites_144
+  - first:
+      213: 8279135821833179368
+    second: Main Sprites_145
+  - first:
+      213: -5800176620154140414
+    second: Main Sprites_146
+  - first:
+      213: -7209016029675978911
+    second: Main Sprites_147
+  - first:
+      213: -7637723303708819709
+    second: Main Sprites_148
+  - first:
+      213: 7756145425484152857
+    second: Main Sprites_149
+  - first:
+      213: 4704169634353666734
+    second: Main Sprites_150
+  - first:
+      213: 1694867994168324344
+    second: Main Sprites_151
+  - first:
+      213: 5222873345386461866
+    second: Main Sprites_152
+  - first:
+      213: -1273053875566380546
+    second: Main Sprites_153
+  - first:
+      213: 7629720870549571899
+    second: Main Sprites_154
+  - first:
+      213: 8756991842168245461
+    second: Main Sprites_155
+  - first:
+      213: 5109895040340866175
+    second: Main Sprites_156
+  - first:
+      213: 5515986193807752028
+    second: Main Sprites_157
+  - first:
+      213: 8513803569399820047
+    second: Main Sprites_158
+  - first:
+      213: 9181103334835476200
+    second: Main Sprites_159
+  - first:
+      213: 7622738956111954023
+    second: Main Sprites_160
+  - first:
+      213: 5475782772167876660
+    second: Main Sprites_161
+  - first:
+      213: 3437393061472401337
+    second: Main Sprites_162
+  - first:
+      213: 4286036432956584669
+    second: Main Sprites_163
+  - first:
+      213: 6427768018716502980
+    second: Main Sprites_164
+  - first:
+      213: -2901060669633359056
+    second: Main Sprites_165
+  - first:
+      213: 7920441856326203342
+    second: Main Sprites_166
+  - first:
+      213: 9161820605005345314
+    second: Main Sprites_167
+  - first:
+      213: -7659793355161373705
+    second: Main Sprites_168
+  - first:
+      213: 2869071715187301231
+    second: Main Sprites_169
+  - first:
+      213: 1027759982595659166
+    second: Main Sprites_170
+  - first:
+      213: -7249140560529665637
+    second: Main Sprites_171
+  - first:
+      213: 5811988128940078481
+    second: Main Sprites_172
+  - first:
+      213: -3826409713625536335
+    second: Main Sprites_173
+  - first:
+      213: -1669801939274225149
+    second: Main Sprites_174
+  - first:
+      213: -5351736322333107613
+    second: Main Sprites_175
+  - first:
+      213: 8424099814531785681
+    second: Main Sprites_176
+  - first:
+      213: 8942106553513032827
+    second: Main Sprites_177
+  - first:
+      213: -3803618575164082926
+    second: Main Sprites_178
+  - first:
+      213: 5838751801475224856
+    second: Main Sprites_179
+  - first:
+      213: 3899866970265357228
+    second: Main Sprites_180
+  - first:
+      213: 4611654686581673312
+    second: Main Sprites_181
+  - first:
+      213: 5655486269078729966
+    second: Main Sprites_182
+  - first:
+      213: 9023769372994452658
+    second: Main Sprites_183
+  - first:
+      213: -6858892417079933396
+    second: Main Sprites_184
+  - first:
+      213: -3246291602118771886
+    second: Main Sprites_185
+  - first:
+      213: -7065606974118162756
+    second: Main Sprites_186
+  - first:
+      213: 6657197109973627825
+    second: Main Sprites_187
+  - first:
+      213: 3429794355203700990
+    second: Main Sprites_188
+  - first:
+      213: -5318306311341886287
+    second: Main Sprites_189
+  - first:
+      213: -8444379165602027657
+    second: Main Sprites_190
+  - first:
+      213: -437901089711190229
+    second: Main Sprites_191
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dc06ac338bae340800000000000000
+      internalID: 4893926477669649723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161e1b47c53869090800000000000000
+      internalID: -8028084852623285919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd79b5f4e38591210800000000000000
+      internalID: 1304170591743088607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35579c18c3f2c9f60800000000000000
+      internalID: 8042354971498870099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac22c8d1bdf5310800000000000000
+      internalID: 1396075329459767973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a4a1723bde279a0800000000000000
+      internalID: -6236661180243752358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e298c3ee167cf5160800000000000000
+      internalID: 7016545967889221934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bca6dc6ac3018240800000000000000
+      internalID: 4792115646443203769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c7694f06c47cdf0800000000000000
+      internalID: -160075282444288974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28688c24d0112b80800000000000000
+      internalID: -8421431324739868625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d31e4f2d9297b9c0800000000000000
+      internalID: -3911496547546819632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955b67d7e07a7c050800000000000000
+      internalID: 5820804724075967833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8764478c1e55f9a60800000000000000
+      internalID: 7682953917536421496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ac5b7f56953f7e0800000000000000
+      internalID: -1732943137125053929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f230c5dd5543ca7f0800000000000000
+      internalID: -600047106956459217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 267
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6179e817ed9a7ec30800000000000000
+      internalID: 4388663134748841750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae35e70089fa49730800000000000000
+      internalID: 4005019036017382378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa168dd91821203a0800000000000000
+      internalID: -6700772947665591889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34db7ffe408b802f0800000000000000
+      internalID: -1006352185371935421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb43573637c1dbf50800000000000000
+      internalID: 6898701486116910270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28cb6f27f7dcb0f0800000000000000
+      internalID: -1099766752332756945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d4607098d8be10800000000000000
+      internalID: 2213757331725145809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76970163205546b80800000000000000
+      internalID: -8402497536781158041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3afdecbc3687900800000000000000
+      internalID: 682405070546904015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4364c0032310bbc0800000000000000
+      internalID: -3769491847051451574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b9fe82aa77328b0800000000000000
+      internalID: -5178163573831001287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d0c4320996b7770800000000000000
+      internalID: 8609591180437228925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d73b5184ae60ba0800000000000000
+      internalID: -6122949048040981148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3642170fb82ec14f0800000000000000
+      internalID: -856560738444958621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf3723f949408aa0800000000000000
+      internalID: -6160843708281962546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad53c614cf5f2c870800000000000000
+      internalID: 8701787893811394010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56aa5439ed5abecf0800000000000000
+      internalID: -221901381252568475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f38b579ba34043a0800000000000000
+      internalID: -6683267442759990279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2212c5309e9966f0800000000000000
+      internalID: -690846725610270166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5359eca11fcc1700800000000000000
+      internalID: 512512132435759966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c1460475cdf8d90800000000000000
+      internalID: -7093208620784673724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85dadf4397795b50800000000000000
+      internalID: 6582423804962329997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93ad78b4ce433a80800000000000000
+      internalID: -8488354265847454817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66f072f1741d0050800000000000000
+      internalID: 5768289177362822765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5454bcff8b2eb0080800000000000000
+      internalID: -9220026527917587131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa16eb0fb1c45670800000000000000
+      internalID: 8526653020801735421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13f1f50dc4b41bb0800000000000000
+      internalID: -4966145696421776609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be14f6d60b2ea460800000000000000
+      internalID: 7254783358116568754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1ce241a62af2850800000000000000
+      internalID: 6354476175731900866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cab41966f2c0be40800000000000000
+      internalID: 5670246294440164041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8d9e4d53ab51c10800000000000000
+      internalID: 2023728347941034217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6448a6b2911e3520800000000000000
+      internalID: 2683601749786772590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80b19ec6bf0891a0800000000000000
+      internalID: -6802669959319015285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d215fd18c067450800000000000000
+      internalID: 6086065698374757673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013f70ecaffe5a590800000000000000
+      internalID: -7663455330423540976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd221205487e4a4f0800000000000000
+      internalID: -818274676808539427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcf56f44f2923700800000000000000
+      internalID: 518638485102787838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8e2ad612d0a5b60800000000000000
+      internalID: 7735509747186723026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa5421b187496250800000000000000
+      internalID: 5938356206013012642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b295ff46ee856dd0800000000000000
+      internalID: -2493429698844585289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c37211294d4a2320800000000000000
+      internalID: 2533922716832134083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e74cbbb17052d9d0800000000000000
+      internalID: -2751047972958746652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d38a39c207bd9d0800000000000000
+      internalID: -2748479810821407434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae302a473ea03b40800000000000000
+      internalID: 5418021904216768161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019ac0dc7aaa8e6f0800000000000000
+      internalID: -655086108105987824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee76a7beda6a97e40800000000000000
+      internalID: 5654734073050589166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a1e34d53a5f2f20800000000000000
+      internalID: 3400035430928620093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f14f1292f2efaa0800000000000000
+      internalID: -6125406589467484271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fe2e1c982680ae0800000000000000
+      internalID: -1582906925217812637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d058501309b080920800000000000000
+      internalID: 2956625869294372109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643b177cb3f2ef630800000000000000
+      internalID: 3962656655928308550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccf18f43cf13b5d0800000000000000
+      internalID: -3048057599086691132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fe3d55a264d8c60800000000000000
+      internalID: 7821985275454943125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f1a3f1ae78cb950800000000000000
+      internalID: 6466192604613189457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c27757f138ac140800000000000000
+      internalID: 4740745728898837530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8c848bdfc840f10800000000000000
+      internalID: 2235066336429000889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68e69c3c3861e650800000000000000
+      internalID: 6260399564945549421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5910dec2a87ed10800000000000000
+      internalID: 2154842872279569841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6692a69b54b2f47b0800000000000000
+      internalID: -5237920263145117338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e83243ee3bad680800000000000000
+      internalID: -8729467092045951462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d608dc256c1a860800000000000000
+      internalID: 7539525310132284786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36be2254ef01c2500800000000000000
+      internalID: 372691553432562531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936d56b80cbfc6bc0800000000000000
+      internalID: -3788376382134430151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0328db8941f32c7d0800000000000000
+      internalID: -2899685852378725840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f34077ecca243130800000000000000
+      internalID: 3545505866192012278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756bce23e7183b5e0800000000000000
+      internalID: -1895028639172610473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73df091990e82d10800000000000000
+      internalID: 2101176174323422074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07efd8d8a8be57250800000000000000
+      internalID: 5941914263698144880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390705c8228b154b0800000000000000
+      internalID: -5453375215246479213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32316cfc50cb605e0800000000000000
+      internalID: -1943659456017067229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056af8fff1aca6f40800000000000000
+      internalID: 5722608515308037712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839df3cf8110fc3a0800000000000000
+      internalID: -6643089718525306568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdeffd95af193760800000000000000
+      internalID: 7438011055759945163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd70e5da18a08950800000000000000
+      internalID: 6449339499605425592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7546ce6ea0dff10800000000000000
+      internalID: 2305010571208316856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dac137d56a9d1f30800000000000000
+      internalID: 4547960960906808025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1a4f2e3fd1a8390800000000000000
+      internalID: -7815401270026133086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2206ed5c8a2e05c90800000000000000
+      internalID: -7182992191153872862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afe25882e4f2cd70800000000000000
+      internalID: 9062074654009782176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc44b7cec999d2c0800000000000000
+      internalID: -4406321647012524869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7018d7cd8f3ed9ac0800000000000000
+      internalID: -3846667848713928441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2901484f5a270a30800000000000000
+      internalID: 4181357367759276335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3580103eee71c3bd0800000000000000
+      internalID: -2649216166022543277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7acfd02374ece40800000000000000
+      internalID: 5678554460469372877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562289e34d1149810800000000000000
+      internalID: 1771060156744344165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09769e1748fea1b30800000000000000
+      internalID: 4258979749758068624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a518e72324449350800000000000000
+      internalID: 6022513519485261223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e082681f19e16f0800000000000000
+      internalID: -711971224554041810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650f42cb7753c0f60800000000000000
+      internalID: 8001829426304446550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77561a5b96c931400800000000000000
+      internalID: 293750378541966711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baf3fc6c4874fd70800000000000000
+      internalID: 9076011418699168432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d268ee2b9b7a5c0800000000000000
+      internalID: -4204187548969980550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c540eb3a59171d30800000000000000
+      internalID: 4402015036120253888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a3be7062680d720800000000000000
+      internalID: 2868940460534741519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afd086f03122c5f0800000000000000
+      internalID: -737990894757552219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9782aa914b1763150800000000000000
+      internalID: 5851989784153172089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 123
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb67c39f34f793ff0800000000000000
+      internalID: -55873590444394818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633381bfefaae2be0800000000000000
+      internalID: -1500073613756714186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa72df7ea42b3b20800000000000000
+      internalID: 3115123899144239783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc5f05b6c2d49e0800000000000000
+      internalID: -1635602250234212555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e8e729fe8cd50a0800000000000000
+      internalID: -6891130923526484469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5193e5cda4bcfef0800000000000000
+      internalID: -72984835502403238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9882307118179e5e0800000000000000
+      internalID: -1879846570199668599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83ca24b4168b0600800000000000000
+      internalID: 435589212451554187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e612fc0e0df62fc0800000000000000
+      internalID: -3519847821954902302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42d48841729951a0800000000000000
+      internalID: -6820259145430281652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fdeca036a2c1160800000000000000
+      internalID: 6997514525898366807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c118684b117aa8e20800000000000000
+      internalID: 3353676567015751964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc901dbeca702080800000000000000
+      internalID: -9214229809246200579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff97aa058ade33c0800000000000000
+      internalID: -4377821522813280269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f8a076beff435b0800000000000000
+      internalID: -5389401467544498287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cf9e279f60d4b30800000000000000
+      internalID: 4273079289889029244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08e0f260c78a9fc0800000000000000
+      internalID: -3487325701081602034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b2709d2d05abee0800000000000000
+      internalID: -1244593480500040900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8064f1eb819245830800000000000000
+      internalID: 4058914350413334024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9642d6c1855707090800000000000000
+      internalID: -8038796313561848727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75faa34c91a43290800000000000000
+      internalID: -7911520952860871298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1efb6ddf8456010800000000000000
+      internalID: 1181430732321448386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d58dec2d9f3bdc0800000000000000
+      internalID: -3624278591294382797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265f5af61bc1c7110800000000000000
+      internalID: 1259913544164832610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328fa3b15df6cecf0800000000000000
+      internalID: -221679320572430301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb369835453ecb680800000000000000
+      internalID: -8737859225687333953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_137
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab2e509ee2230d80800000000000000
+      internalID: -8285740481411929170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_138
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc33f54027628ab0800000000000000
+      internalID: -5007326447372387137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_139
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45991dcf7f25e5860800000000000000
+      internalID: 7520539652807301460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_140
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bf030ff08e98080800000000000000
+      internalID: -9184554809893520587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_141
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a92ed5cee6e6500800000000000000
+      internalID: 391372179094280727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_142
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe91d78c97c7700800000000000000
+      internalID: 539439957376888751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_143
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3c25ca18b582a60800000000000000
+      internalID: 7649464579588801488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_144
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c636b92c07c31550800000000000000
+      internalID: 6130462372834719427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_145
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0149b4a2665e270800000000000000
+      internalID: 8279135821833179368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_146
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209cf293812a18fa0800000000000000
+      internalID: -5800176620154140414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ff013bd1e64fb90800000000000000
+      internalID: -7209016029675978911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_148
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f76b52f1b510690800000000000000
+      internalID: -7637723303708819709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_149
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9100140bb2d53ab60800000000000000
+      internalID: 7756145425484152857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_150
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa54d2db51984140800000000000000
+      internalID: 4704169634353666734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_151
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0f49df571658710800000000000000
+      internalID: 1694867994168324344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_152
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaabd9ab2af5b7840800000000000000
+      internalID: 5222873345386461866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_153
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef97eeebe34355ee0800000000000000
+      internalID: -1273053875566380546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_154
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39cd7035b632e960800000000000000
+      internalID: 7629720870549571899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_155
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc8e651fa5178970800000000000000
+      internalID: 8756991842168245461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_156
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f743c0f377ef9e640800000000000000
+      internalID: 5109895040340866175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_157
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bbed3e738bc8c40800000000000000
+      internalID: 5515986193807752028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_158
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f67810d3b172670800000000000000
+      internalID: 8513803569399820047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_159
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6d507e6d4d96f70800000000000000
+      internalID: 9181103334835476200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_160
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760c59e81b869c960800000000000000
+      internalID: 7622738956111954023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_161
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430254a5b63edfb40800000000000000
+      internalID: 5475782772167876660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_162
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7747ef6c214bf20800000000000000
+      internalID: 3437393061472401337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_163
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd272c86d6f0b7b30800000000000000
+      internalID: 4286036432956584669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_164
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cba63e05f4043950800000000000000
+      internalID: 6427768018716502980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_165
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03395a201bc5db7d0800000000000000
+      internalID: -2901060669633359056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_166
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7757e67ef0bed60800000000000000
+      internalID: 7920441856326203342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_167
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b2318c43552f70800000000000000
+      internalID: 9161820605005345314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_168
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f375bcd682f2b590800000000000000
+      internalID: -7659793355161373705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_169
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b1cd2268df0d720800000000000000
+      internalID: 2869071715187301231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_170
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95d9f44246534e00800000000000000
+      internalID: 1027759982595659166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_171
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91d0ca5111e56b90800000000000000
+      internalID: -7249140560529665637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_172
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195b248f86458a050800000000000000
+      internalID: 5811988128940078481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_173
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8ee3e73acd5eac0800000000000000
+      internalID: -3826409713625536335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_174
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a2d44bbfba3d8e0800000000000000
+      internalID: -1669801939274225149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_175
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a97c76b20dab5b0800000000000000
+      internalID: -5351736322333107613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_176
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3e995062a68e470800000000000000
+      internalID: 8424099814531785681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_177
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c36d9788eb81c70800000000000000
+      internalID: 8942106553513032827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_178
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215744eee05d63bc0800000000000000
+      internalID: -3803618575164082926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_179
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8155a9214d9670150800000000000000
+      internalID: 5838751801475224856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_180
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab02f9d85c1f1630800000000000000
+      internalID: 3899866970265357228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_181
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d477cf083efff30800000000000000
+      internalID: 4611654686581673312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_182
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee479843cc25c7e40800000000000000
+      internalID: 5655486269078729966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_183
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc326c4f6eda3d70800000000000000
+      internalID: 9023769372994452658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_184
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c268457cfa150d0a0800000000000000
+      internalID: -6858892417079933396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_185
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b706accfad2f2d0800000000000000
+      internalID: -3246291602118771886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_186
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe0a2964ebe1fd90800000000000000
+      internalID: -7065606974118162756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_187
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b33cbb008d136c50800000000000000
+      internalID: 6657197109973627825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_188
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef87e825bc3199f20800000000000000
+      internalID: 3429794355203700990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_189
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4bfb166949136b0800000000000000
+      internalID: -5318306311341886287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_190
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777e49d93e98fca80800000000000000
+      internalID: -8444379165602027657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Sprites_191
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f020d67434ce9f0800000000000000
+      internalID: -437901089711190229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
